@@ -1,0 +1,79 @@
+\documentclass[defaultstyle,11pt]{thesis}
+
+\usepackage{amssymb}		% to get all AMS symbols
+\usepackage{graphicx}		% to insert figures
+\usepackage{hyperref}		% PDF hyperreferences??
+\usepackage{amsmath}
+\usepackage{mathrsfs}
+\usepackage{braket}
+\newcommand{\parallelsum}{\mathbin{\|}}
+
+%%%%%%%%%%%%   All the preamble material:   %%%%%%%%%%%%
+
+\title{Strongly correlated spin charge dynamics govern the ultrafast response of ferromagnets within a few femtoseconds}
+
+\author{Phoebe Marie}{Tengdin}
+
+\otherdegrees{B.A., Mount Holyoke College, 2013 \\
+	      M.S., University of Colorado, 2016}
+
+\degree{Doctor of Philosophy}		%  #1 {long descr.}
+	{Ph.D., Electrical, Computer, and Energy Engineering}		%  #2 {short descr.}
+
+\dept{Department of}			%  #1 {designation}
+	{Electrical, Computer, and Energy Engineering}		%  #2 {name}
+
+\advisor{Prof.}				%  #1 {title}
+	{Margaret Murnane}			%  #2 {name}
+
+\reader{Prof. Henry Kapteyn}		%  2nd person to sign thesis
+\readerThree{Dr. Tom Silva}		%  3rd person to sign thesis
+
+\abstract{Ferromagnetic materials have strong electron correlations that drive quantum effects and make the physics that describes them extremely challenging. In particular, the electron, spin, and lattice degrees of freedom can interact in surprising ways when driven out of equilibrium by ultrafast laser excitation. In this thesis we explore several previously unexpected connections between electronic and spin systems in ferromagnetic materials. In both systems, dynamics occur at unexpectedly fast timescales, driven using femtosecond laser excitation pulses. The tools that we use to observe the exceeding fast (10s of femtosecond) dynamics are busts of extreme ultraviolet light resonant with the M-edge of transition metals and produced via high harmonic generation. This technique has several distinct advantages over previously employed methods for studying ultrafast magnetic dynamics, and ultimately can uncover fundamentally new thing about these materials.
+For the first scientific result of this thesis, we combine time-resolved transverse magneto-optical Kerr effect (TMOKE) and time- and angle-resolved photoemission (ARPES) spectroscopies to show that the same critical behavior that governs the equilibrium magnetic phase transition in nickel also governs the ultrafast dynamics. When the electron temperature is transiently driven above the Curie temperature, we observe an extremely rapid change in the material response: The spin system absorbs sufficient energy within the first 20 fs to subsequently proceed through the phase transition, whereas demagnetization and the collapse of the exchange splitting occur on much longer, fluence- independent time scales of 176 fs. Following this finding, we observe that the transient electron temperature alone dictates the magnetic response of the system. The natural next question is whether or a response on this timescale can be observed in any other materials. In the next part of this thesis I describe experiments on a half-metallic heusler compound, C$o_2$MnGe. Here we observe ultrafast transfer of spin polarization from one magnetic sublattice to another within the timescale of the 55 fs laser excitation pulse. Ultrafast high harmonic pulses simultaneously probe the magnetic state of Co and Mn during laser excitation to make a surprising finding: the magnetization of Co is transiently enhanced, while that of Mn rapidly quenches. This observation marks the first direct manipulation of spins via light, thus providing a path towards spintronic logic devices such as switches that can operate on few femtosecond or even faster timescales. }
+
+\dedication[Dedication]{	% NEVER use \OnePageChapter here.
+	To my family.
+	}
+
+\acknowledgements{	\OnePageChapter	% *MUST* BE ONLY ONE PAGE!
+	People were nice to me.
+	}
+
+% \IRBprotocol{E927F29.001X}	% optional!
+
+\ToCisShort	% use this only for 1-page Table of Contents
+
+\LoFisShort	% use this only for 1-page Table of Figures
+% \emptyLoF	% use this if there is no List of Figures
+
+\LoTisShort	% use this only for 1-page Table of Tables
+% \emptyLoT	% use this if there is no List of Tables
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%       BEGIN DOCUMENT...         %%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+\input macros.tex
+\input chapter1.tex
+\input chapter2.tex
+\input chapter3.tex
+\input chapter4.tex
+\input chapter5.tex
+\input chapter6.tex
+
+%%%%%%%%%   then the Bibliography, if any   %%%%%%%%%
+\bibliographystyle{unsrt}	% or "siam", or "alpha", etc.
+%\nocite{*}		% list all refs in database, cited or not
+\bibliography{bib}		% Bib database in "refs.bib"
+
+%%%%%%%%%   then the Appendices, if any   %%%%%%%%%
+%\appendix
+%\input appendixA.tex
+%\input appendixB.tex
+
+
+\end{document}
+
