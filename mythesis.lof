@@ -1,6 +1,7 @@
 \contentsline {part} {\figurenameToC }{\relax }{}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Number of 3d and 4s electrons in the free transition metal atoms}}{18}{figure.2.1}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {4.1}{\ignorespaces Schematic of the critical behavior of ultrafast demagnetization in Ni. (A) After excitation by a femtosecond laser pulse above the critical fluence ($F_c$), the transient electron temperature ($T_e$) is driven above the Curie temperature ($T_c$), inducing high-energy spin excitations within 20 fs, which store the magnetic energy (see text). The Fermi-Dirac distributions of electrons are also plotted. Demagnetization occurs later, in 176 fs, driven by relaxation of nonequilibrium spins and the likely excitation of low-energy magnons. Full recovery of the spin system occurs within 500 fs to 76 ps, depending on the laser fluence. (B and C) Experimental setups for time-resolved ARPES and TMOKE, respectively, using ultrafast high-harmonic sources. IR, infrared.}}{23}{figure.4.1}
