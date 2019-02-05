@@ -372,7 +372,26 @@ where the $c^{\dagger}_{i\sigma}$ and $c_{i\sigma}$ are the creation and annihil
 
 One notable detail about the Hubbard Hamiltonian is that the hopping operator only moves spins between atomic sites, but cannot flip them. The Hamiltonian actually acts only on the spatial part of the wavefunctions via coordinate changes but does not affect the spins, in contrast to the Heisenberg Hamiltonian. However, the concept of hopping quickly transfers to a band model of solid, and in fact a version this model called the Bose-Hubbard model is commonly used for a first-order quantum mechanical description of solids. The discussion of band theory quickly brings us to the next step we will take in our description of magnetism, which is the inclusion of the crystal lattice.
 
+
+\section{Band Model of Ferromagnetism}
+
+In the atomic picture, the spin and orbital magnetic moments of atoms are multiples of the Bohr magneton according to m = (2s+l)$\mu_B/\hbar$. Thus an initial guess for the magnetic moments for the transition metals would be even multiples of $\mu_B$. The magnetic moment could be determined by the number of unpaired electrons in each atom's shell. The number of 3d and 4s electrons in the transition metal atoms are given in Fig. \ref{TransMetalUnpE}.
+
+\begin{figure}
+	\begin{center}
+		\includegraphics[width=150mm]{figs/TransitionMetalValenceShells}
+	\end{center}
+\caption{Number of 3d and 4s electrons in the free transition metal atoms}
+\label{TransMetalUnpE}
+\end{figure}
+
+For example, in Fe, there is a possibility of 12 electrons occupying the 4s and 3d orbitals, and only 8 electrons occupying these positions, giving rise 4 unfilled "holes", for which situation Hund's rule would predict a magnetic spin moment of $\mu_s$=4$\mu_B$ for Fe, and similarly 3$\mu_B$ for Co and 2$\mu_B$ for Ni.
+
+However, if the spontaneous magnetization M of Fe, Co and Ni is mesaured and divided by the number of atoms, the resulting values are $m_{exp}$ = 2.215 $\mu_B$ for Fe, 1.715 $\mu_B$ for Co, and 0.616 $\mu_B$ for Ni. The sizes of these values immediately illustrates that the atomic picture cannot provide an accurate description of the magnetism of solids. In the next section, we will take a different approach, accounting for the itinerant nature of the electrons, and treating the effects of bonding of the atoms in a metal lattice.
+
 \subsection{Bragg scattering and Band structure}
+Before we introduce a model that includes magnetism in the context of a crystalline lattice, we will first introduce the language of band structure and the effect of periodic boundary conditions on the solutions of Schr\"odinger's equation for electrons in a periodic potential such as a crystalline lattice of ions. We begin with Bragg reflection of the electron from the lattice.
+
 The most important consequence of Bragg reflection in our discussion is that it leads to the presence of an energy gap. In the 1-D case, the Bragg equation becomes:
 \begin{equation}
 \begin{split}
@@ -392,27 +411,22 @@ At k = +/-$\pi$/a the stationary state wave functions are not traveling waves as
 \end{split}
 \end{equation}
 
-These solutions are made up of equal parts waves traveling to the right and left. Moreover, these solutions correspond to different values of the potential energy of the particle, owing to the positional shift between the two wavefunctions.$\Psi_1$ distributes charge preferentially midway between ion cores, while $\Psi_2$ distributes charge preferentially on the ion cores. On calculating average values of the potential energy over the three charge distributions, we expect the potential energy of $\Psi_1$ to be greater than that of a plane wave while that of $\Psi_2$ to be less than that of a plane wave.
+These solutions are made up of equal parts waves traveling to the right and left. Moreover, these solutions correspond to different values of the potential energy of the particle, owing to the positional shift between the two wavefunctions. $\Psi_1$ distributes charge preferentially midway between ion cores, while $\Psi_2$ distributes charge preferentially on the ion cores. On calculating average values of the potential energy over the three charge distributions, we expect the potential energy of $\Psi_1$ to be greater than that of a plane wave while that of $\Psi_2$ to be less than that of a plane wave.
 
-If the potential energies of the states  $\Psi_1$ and $\Psi_2$ differ by an amount $\Delta$E, we have an energy gap  of width $\Delta$E. The physical reason for the gap is this: If wave functions at values of k far removed from the Brillouin zone boundaries +/- $\pi$/a may be represented by plane waves e$^{ikx}$, then in forming a solution of the wave equation as the boundaries are approached and Bragg reflection becomes imminent the wave gradually becomes an admixture of the wave e$^{i[k-(2\pi/a)]x}$ , until at the zone boundary k = +/-$\pi$/a and the solution is e$^{i\pi x/a}$ +/- e$^{-i\pi x /a}$.
+If the potential energies of the states  $\Psi_1$ and $\Psi_2$ differ by an amount $\Delta$E, we have an energy gap  of width $\Delta$E. The physical reason for the gap is this: If wave functions at values of k far removed from the Brillouin zone boundaries +/- $\pi$/a may be represented by plane waves e$^{ikx}$, then in forming a solution of the wave equation as the boundaries are approached and Bragg reflection becomes imminent the wave gradually becomes an admixture of the wave e$^{i[k-(2\pi/a)]x}$ , until at the zone boundary k = +/-$\pi$/a and the solution is e$^{i\pi x/a}$ +/- e$^{-i\pi x /a}$. 
 
-\section{Band Model of Ferromagnetism}
+\subsection{Stoner Model}
+The problem of predicting the value of the magnetic moment for transition metals was solved by developing a band theory for magnetic systems, which was done in 1935 by Mott, Slater, and Stoner [stohr 27-31]. This model is called the Stoner model. 
 
-In the atomic picture, the spin and orbital magnetic moments of atoms are multiples of the Bohr magneton according to m = (2s+l)$\mu_B/\hbar$. Thus an initial guess for the magnetic moments for the transition metals would be even multiples of $\mu_B$. The magnetic moment could be determined by the number of unpaired electrons in each atom's shell. The number of 3d and 4s electrons in the transition metal atoms are given in Fig. \ref{TransMetalUnpE}.
+In this model, the bonding interaction in the 3d electrons causes a smearing of the energy into a a band. The periodicity condition of the lattice leads to the characteristic periodic variations and as seen above, thier band width increases with the inverse lattice constant. For our first description of the Stoner model, we can consider the average finite energy width of the valence band states and  and approximate the density of states as a simple semicircle as shown in Fig. \ref{StonerModel}.
 
 \begin{figure}
 	\begin{center}
-		\includegraphics[width=150mm]{figs/TransitionMetalValenceShells}
+		\includegraphics[width=150mm]{figs/StonerModel}
 	\end{center}
-\caption{Number of 3d and 4s electrons in the free transition metal atoms}
-\label{TransMetalUnpE}
+	\caption{Stoner Model for a Ferromagnet (need to redo)}
+	\label{StonerModel}
 \end{figure}
-
-For example, in Fe, there is a possibility of 12 electrons occupying the 4s and 3d orbitals, and only 8 electrons occupying these positions, giving rise 4 unfilled "holes", for which situation Hund's rule would predict a magnetic spin moment of $\mu_s$=4$\mu_B$ for Fe, and similarly 3$\mu_B$ for Co and 2$\mu_B$ for Ni.
-
-However, if the spontaneous magnetization M of Fe, Co and Ni is mesaured and divided by the number of atoms, the resulting values are $m_{exp}$ = 2.215 $\mu_B$ for Fe, 1.715 $\mu_B$ for Co, and 0.616 $\mu_B$ for Ni. The sizes of these values immediately illustrates that the atomic picture cannot provide an accurate description of the magnetism of solids. In the next section, we will take a different approach, accounting for the itinerant nature of the electrons, and treating the effects of bonding of the atoms in a metal lattice.
-
-\subsection{Stoner Model}
 
 
 \section{Ultrafast}
