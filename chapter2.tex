@@ -415,20 +415,20 @@ These solutions are made up of equal parts waves traveling to the right and left
 
 If the potential energies of the states  $\Psi_1$ and $\Psi_2$ differ by an amount $\Delta$E, we have an energy gap  of width $\Delta$E. The physical reason for the gap is this: If wave functions at values of k far removed from the Brillouin zone boundaries +/- $\pi$/a may be represented by plane waves e$^{ikx}$, then in forming a solution of the wave equation as the boundaries are approached and Bragg reflection becomes imminent the wave gradually becomes an admixture of the wave e$^{i[k-(2\pi/a)]x}$ , until at the zone boundary k = +/-$\pi$/a and the solution is e$^{i\pi x/a}$ +/- e$^{-i\pi x /a}$. 
 
-\subsection{Stoner Model}
+\subsection{The Stoner Model}
 The problem of predicting the value of the magnetic moment for transition metals was solved by developing a band theory for magnetic systems, which was done in 1935 by Mott, Slater, and Stoner [stohr 27-31]. This model is called the Stoner model. 
 
 In this model, the bonding interaction in the 3d electrons causes a smearing of the energy into a a band. The periodicity condition of the lattice leads to the characteristic periodic variations and as seen above, their band width increases with the inverse lattice constant. For our first description of the Stoner model, we can consider the average finite energy width of the valence band states and approximate the density of states as a simple semicircle as shown in Fig. \ref{StonerModel}.
 
 \begin{figure}
 	\begin{center}
-		\includegraphics[width=150mm]{figs/StonerModel}
+		\includegraphics[width=100mm]{figs/StonerModel.pdf}
 	\end{center}
-	\caption{Stoner Model for a Ferromagnet (need to redo)}
+	\caption{Stoner Model for ferromagnetic transition metals, and illustration of terms used for the description of this model. The filled electron states (at zero temperature) below the Fermi energy $E_F$ are shaded. The spin population with greater occupied states is called the majority band, while the population with less occupied states is called the minority band. The centers of the two bands are separated by the exchange energy $\Delta$.}
 	\label{StonerModel}
 \end{figure}
 
-Here we introduce the terminology of majority and minority charge carriers. The electrons with spin states corresponding to the larger electron population are the "majority band" while those with the smaller population are the "minority band". This terminology will be extensively used in section \ref{heuslerpaper}, since the distinction between minority and majority carriers becomes especially important for the special class of ferromagnets called half-metals studied in this project.
+Here we introduce the terminology of majority and minority charge carriers. The electrons with spin states corresponding to the larger electron population are the "majority band" while those with the smaller population are the "minority band". This terminology will be extensively used in Section \ref{heuslerpaper}, since the distinction between minority and majority carriers becomes especially important for the special class of ferromagnets called half-metals studied in this project.
 
 Next we proceed to derive an expression for the magnetic moment that is relevant for both electron and hole pictures. From the spin resolved density of states we can compute the number of spin states in the majority and minority bands by energy integration:
 
@@ -436,15 +436,30 @@ Next we proceed to derive an expression for the magnetic moment that is relevant
 N_{e}^{maj}=N_e^\downarrow = \int_{-\inf}^{E_F}D^\downarrow(E)\text{d}E
 \end{equation}
 
-From electromagnetic theory, the atomic magnetic moment is given by m = -2$\mu_B$s/$\hbar$ with s having the units of [$\hbar$]. The absolute value of m can be found via the expectation of the electron spin operator $<s_z>$. Using the convention that the spin up states are labeled |$\uparrow$> = |+> with eigenvalue $s_z$ = +$\hbar$/2 and the spin down states |$\downarrow$> = |-> with eigenvalue $s_z$ = - $\hbar$/2, we have for $s_z$,
+From electromagnetic theory, the atomic magnetic moment is given by m = -2$\mu_B$s/$\hbar$ with s having the units of [$\hbar$]. The absolute value of m can be found via the expectation of the electron spin operator $<s_z>$ according to the expression |m| = -2$\mu_B\braket{s_z}/\hbar$. Using the convention that the spin up states are labeled $\ket{\uparrow}$ = $\ket{+}$ with eigenvalue $s_z$ = +$\hbar$/2 and the spin down states $\ket{\downarrow}$ = $\ket{-}$ with eigenvalue $s_z$ = - $\hbar$/2, we have for $s_z$,
+
+\begin{eqnarray}
+\braket{s_z} = \braket{+\frac{1}{2}|s_z|+\frac{1}{2}}N_e^{min} + \braket{-\frac{1}{2}|s_z|-\frac{1}{2}}N_e^{maj} \\
+= \frac{\hbar}{2}(N_e^{min}-N_e^{maj}) = \frac{\hbar}{2}(N_e^{\uparrow} - N_e^{\downarrow})
+\end{eqnarray}
+
+and we have the maximum number of electrons in the d shell: (2s+1)(2l+1) = 10. We also have $N_e$ + $N_h$ = 10. Thus  the number of holes in the minority band $N_h^{min}$ = $N_h^{\uparrow}$ and for the majority band $N_h^{maj}$ = $N_h^\downarrow$ is $N_e^\downarrow$ + $N_h^\downarrow$ = 5 and $N_e^\uparrow$ + $N_h^\uparrow$ = 5 and thus,
 
 \begin{equation}
-
+\braket{s_z} = \frac{\hbar}{2}(N_e^\uparrow-N_e^\downarrow) = -\frac{\hbar}{2}(N_h^\uparrow - N_h^{maj}).
 \end{equation}
 
+And finally we can conclude that the magnetic moment |m| is given by the difference in the number of electrons or holes in the majority and minority bands, according to,
 
+\begin{equation}
+|m| = \mu_B(N_e^{maj}-N_e^{min}) = \mu_B(N_h^{min} - N_h^{maj}).
+\end{equation}
 
-\section{Ultrafast}
+When finally including these numbers, we find that in the band picture, the number of majority and minority states is a non-integer, and thus the magnetic moments are noninteger multiples of the Bohr magneton as experimentally measured. This simple relation between electron and hole moments is exact only if the band states are well defined in their energy spread about the Fermi level. In reality, there is hybridization between the d states and the s-p states such that even  10 eV above the Fermi level, there is some small d character in the s-p bands. Thus the number of d holes and the magnetic d moment is slightly reduced relative to the values expected from the filled electron states (cite stohr 240,241).
+
+Since we now have a value for the magnetic moment, the exchange energy can also be written as an "exchange field", an effective magnetic field that splits the levels and can be used to describe the origin splitting as $\Delta$ = $2m\dot H_{ex}$. In addition, it exerts a torque T = $m\times H_{ex}$ on the electron spins. This gives us a surprisingly giant value for the effective exchange field of $10^3$ T. The size however gives us a quantitative understanding for the giant strength of the magnetic interaction in 3d ferromagnets. It is important to keep in mind that this exchange field does not act on the orbital moment or the nuclear magnetic moment, and thus the effect of the exchange interaction on the spin system is separate from the orbital system. The two systems can interact, but only via the (much weaker) spin-orbit interaction.
+
+\section{Ultrafast Magnetization Processes}
 As a ferromagnetic metal approaches the Curie temperature, it reaches a critical point where the magnetic properties of the material change dramatically. Under equilibrium conditions, this ferromagnetic-to- paramagnetic phase transition is associated with critical phenomena, characterized by a vanishing of the spontaneous magnetization as well as a divergence of the magnetic heat capacity and susceptibility (1). A faster route to change the magnetization is to use femtosecond laser irradiation: Since the first experimental observation of ultrafast laser- induced demagnetization (2), femtomagnetism has been a subject of intense experimental and theoretical studies.
 
 When a ferromagnetic metal is heated with a femtosecond laser pulse, the energy directly couples into the electron bath, creating an out-of-equilibrium electron distribution. This electron energy distribution quickly thermalizes (within tens of femtoseconds) to a hot Fermi-Dirac energy distribution. In most past work, the laser- induced demagnetization process was described as a sequence of events where the energy of the hot electron bath transfers first to the spin and later to the lattice degrees of freedom. This cascade of energy relaxation processes is used to explain why ultrafast demagnetization occurs over a range of time scales from approximately 100 to 500 fs (2, 3). These multiple time scales observed in past experiments obscured any contributions from critical phenomena. Although there is still no consensus on the important microscopic mechanisms that drive ultrafast demagnetization, or their relevant time scales, a number of microscopic models have been proposed. These are based on spin-flip scattering (3–8) that transfers spin angular momenta during the demagnetization process, as well as laser-induced polarized (9–11) or unpolarized (12, 13) spin currents that can also lead to ultrafast demagnetization.
