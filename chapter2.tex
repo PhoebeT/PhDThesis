@@ -418,7 +418,7 @@ If the potential energies of the states  $\Psi_1$ and $\Psi_2$ differ by an amou
 \subsection{Stoner Model}
 The problem of predicting the value of the magnetic moment for transition metals was solved by developing a band theory for magnetic systems, which was done in 1935 by Mott, Slater, and Stoner [stohr 27-31]. This model is called the Stoner model. 
 
-In this model, the bonding interaction in the 3d electrons causes a smearing of the energy into a a band. The periodicity condition of the lattice leads to the characteristic periodic variations and as seen above, thier band width increases with the inverse lattice constant. For our first description of the Stoner model, we can consider the average finite energy width of the valence band states and  and approximate the density of states as a simple semicircle as shown in Fig. \ref{StonerModel}.
+In this model, the bonding interaction in the 3d electrons causes a smearing of the energy into a a band. The periodicity condition of the lattice leads to the characteristic periodic variations and as seen above, their band width increases with the inverse lattice constant. For our first description of the Stoner model, we can consider the average finite energy width of the valence band states and approximate the density of states as a simple semicircle as shown in Fig. \ref{StonerModel}.
 
 \begin{figure}
 	\begin{center}
@@ -427,6 +427,21 @@ In this model, the bonding interaction in the 3d electrons causes a smearing of 
 	\caption{Stoner Model for a Ferromagnet (need to redo)}
 	\label{StonerModel}
 \end{figure}
+
+Here we introduce the terminology of majority and minority charge carriers. The electrons with spin states corresponding to the larger electron population are the "majority band" while those with the smaller population are the "minority band". This terminology will be extensively used in section \ref{heuslerpaper}, since the distinction between minority and majority carriers becomes especially important for the special class of ferromagnets called half-metals studied in this project.
+
+Next we proceed to derive an expression for the magnetic moment that is relevant for both electron and hole pictures. From the spin resolved density of states we can compute the number of spin states in the majority and minority bands by energy integration:
+
+\begin{equation}
+N_{e}^{maj}=N_e^\downarrow = \int_{-\inf}^{E_F}D^\downarrow(E)\text{d}E
+\end{equation}
+
+From electromagnetic theory, the atomic magnetic moment is given by m = -2$\mu_B$s/$\hbar$ with s having the units of [$\hbar$]. The absolute value of m can be found via the expectation of the electron spin operator $<s_z>$. Using the convention that the spin up states are labeled |$\uparrow$> = |+> with eigenvalue $s_z$ = +$\hbar$/2 and the spin down states |$\downarrow$> = |-> with eigenvalue $s_z$ = - $\hbar$/2, we have for $s_z$,
+
+\begin{equation}
+
+\end{equation}
+
 
 
 \section{Ultrafast}
