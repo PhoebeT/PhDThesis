@@ -12,8 +12,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="115mm"
-   height="60mm"
-   viewBox="0 0 115 60"
+   height="63mm"
+   viewBox="0 0 115 63"
    version="1.1"
    id="svg4627"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
@@ -41,9 +41,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.52"
-     inkscape:cx="299.60277"
-     inkscape:cy="138.45683"
+     inkscape:zoom="12.18833"
+     inkscape:cx="197.04565"
+     inkscape:cy="144.6923"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -68,7 +68,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-237)">
+     transform="translate(0,-234)">
     <rect
        style="opacity:1;fill:#ff0000;fill-opacity:0;stroke:#000000;stroke-width:0.96624267;stroke-miterlimit:4;stroke-dasharray:0.96624271, 1.93248541;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect1541-3"
@@ -254,8 +254,16 @@ a9J+7ta48fST+AQxiB28Y7RkF1/7TswxWjA3iknmSt6eBbPTGAO+xMWToiiKoiiKoiiKzX9X5VKB
        id="rect7421"
        width="25.184328"
        height="20.557327"
-       x="38.557823"
-       y="237.90315" />
+       x="40.344769"
+       y="237.86546" />
+    <rect
+       style="fill:#000000;stroke:#999999;stroke-width:1.19836164;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect4543-8"
+       width="51.026936"
+       height="0.16610178"
+       x="-247.17915"
+       y="68.535629"
+       transform="matrix(7.5017759e-4,-0.99999972,0.73229987,0.68098231,0,0)" />
     <path
        id="path12-5-5"
        sodipodi:type="arc"
@@ -285,23 +293,15 @@ a9J+7ta48fST+AQxiB28Y7RkF1/7TswxWjA3iknmSt6eBbPTGAO+xMWToiiKoiiKoiiKzX9X5VKB
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="36.785576"
-       y="243.51709"
+       x="36.814369"
+       y="241.40063"
        id="text5062"
        transform="rotate(-0.77944713)"><tspan
          sodipodi:role="line"
          id="tspan5060"
-         x="36.785576"
-         y="243.51709"
+         x="36.814369"
+         y="241.40063"
          style="font-size:5.64444447px;stroke-width:0.26458332">Energy</tspan></text>
-    <rect
-       style="fill:#000000;stroke:#999999;stroke-width:1.15159237;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-       id="rect4543-8"
-       width="48.300816"
-       height="0.16204701"
-       x="-249.66769"
-       y="66.87915"
-       transform="matrix(7.9251794e-4,-0.99999969,0.7506236,0.66073006,0,0)" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
