@@ -6,7 +6,10 @@
 \usepackage{amsmath}
 \usepackage{mathrsfs}
 \usepackage{braket}
+\usepackage{bm}
 \newcommand{\parallelsum}{\mathbin{\|}}
+\let\oldhat\hat
+\renewcommand{\hat}[1]{\oldhat{\mathbf{#1}}}
 
 %%%%%%%%%%%%   All the preamble material:   %%%%%%%%%%%%
 
@@ -30,10 +33,10 @@
 \readerThree{Dr. Tom Silva}		%  3rd person to sign thesis
 
 \abstract{Ferromagnetic materials have strong electron correlations that drive quantum effects and make the physics that describes them extremely challenging. In particular, the electron, spin, and lattice degrees of freedom can interact in surprising ways when driven out of equilibrium by ultrafast laser excitation. In this thesis we explore several previously unexpected connections between electronic and spin systems in ferromagnetic materials. In both systems, dynamics occur at unexpectedly fast timescales, driven using femtosecond laser excitation pulses. The tools that we use to observe the exceeding fast (10s of femtosecond) dynamics are busts of extreme ultraviolet light resonant with the M-edge of transition metals and produced via high harmonic generation. This technique has several distinct advantages over previously employed methods for studying ultrafast magnetic dynamics, and ultimately can uncover fundamentally new thing about these materials.
-For the first scientific result of this thesis, we combine time-resolved transverse magneto-optical Kerr effect (TMOKE) and time- and angle-resolved photoemission (ARPES) spectroscopies to show that the same critical behavior that governs the equilibrium magnetic phase transition in nickel also governs the ultrafast dynamics. When the electron temperature is transiently driven above the Curie temperature, we observe an extremely rapid change in the material response: The spin system absorbs sufficient energy within the first 20 fs to subsequently proceed through the phase transition, whereas demagnetization and the collapse of the exchange splitting occur on much longer, fluence- independent time scales of 176 fs. Following this finding, we observe that the transient electron temperature alone dictates the magnetic response of the system. The natural next question is whether or a response on this timescale can be observed in any other materials. In the next part of this thesis I describe experiments on a half-metallic heusler compound, C$o_2$MnGe. Here we observe ultrafast transfer of spin polarization from one magnetic sublattice to another within the timescale of the 55 fs laser excitation pulse. Ultrafast high harmonic pulses simultaneously probe the magnetic state of Co and Mn during laser excitation to make a surprising finding: the magnetization of Co is transiently enhanced, while that of Mn rapidly quenches. This observation marks the first direct manipulation of spins via light, thus providing a path towards spintronic logic devices such as switches that can operate on few femtosecond or even faster timescales. }
+In the first scientific result of this thesis, we combine time-resolved transverse magneto-optical Kerr effect (TMOKE) and time- and angle-resolved photoemission (ARPES) spectroscopies to show that the same critical behavior that governs the equilibrium magnetic phase transition in nickel also governs the ultrafast dynamics. When the electron temperature is transiently driven above the Curie temperature, we observe an extremely rapid change in the material response: The spin system absorbs sufficient energy within the first 20 fs to subsequently proceed through the phase transition, whereas demagnetization and the collapse of the exchange splitting occur on much longer, fluence- independent time scales of 176 fs. Following this finding, we observe that the transient electron temperature alone dictates the magnetic response of the system. The natural next question is whether or not a response on this timescale can be observed in any other materials. In the next part of this thesis I describe experiments on a half-metallic heusler compound, C$o_2$MnGe. Here we observe ultrafast transfer of spin polarization from one magnetic sublattice to another within the timescale of the 55 fs laser excitation pulse. Ultrafast high harmonic pulses simultaneously probe the magnetic state of Co and Mn during laser excitation to make a surprising finding: the magnetization of Co is transiently enhanced, while that of Mn rapidly quenches. This observation marks the first direct manipulation of electron spins via light, thus providing a path towards spintronic logic devices such as switches that can operate on few femtosecond or even faster timescales. }
 
 \dedication[Dedication]{	% NEVER use \OnePageChapter here.
-	To my family.
+	Stuff.
 	}
 
 \acknowledgements{	\OnePageChapter	% *MUST* BE ONLY ONE PAGE!

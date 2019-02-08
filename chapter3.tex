@@ -1,10 +1,54 @@
-\chapter{Description of the Experimental Techniques used in this Thesis}
+\chapter{Experimental Techniques used in this Thesis}
 
-In this chapter 
+In the previous chapter we provided a microscopic description of ferromagnetism and the motivation for how certain properties of ferromagnets arise. In this section, we will proceed to treat the interaction of light with these properties and explain how light can be used as a sensitive probe for magnetism. 
 
-\section{Magneto-Optics}
+\section{Kerr Effect}
+
+When linearly polarized light reflects from a magnetized solid it is modified in two ways: first the direction of polarization is rotated over an angle $\Theta_K$, and secondly the phase of the light is modified so that it becomes elliptically polarized. When the magnetization is applied in a transverse geometry (see Fig. ref), the amplitude of the light is modified as well. It is this effect, that we will employ for the majority of the work in this thesis, due to the fact that changes in intensity are much simpler to monitor in the EUV light regime than changes in the polarization of the light.
+
+
+\subsection{Transverse magneto-optical effect (TMOKE)}
+ 
+We now consider the interaction of magnetic media magnetized in the transverse direction (see fig ref) with linearly polarized light. In the s- and p- polarization basis ($E_s$,$E_p$), we write the incident electric field $\vec{E_i}$, i.e. the time- and space- independent part of the (plane wave) radiation as
+
+\begin{equation}
+\overrightarrow{E_i} = \left({\begin{array}{c}
+	E_s \\
+	E_p \\
+	\end{array} } \right) 
+= \left({\begin{array}{c}
+	\text{cos}(\theta) \\
+	\text{sin}(\theta) \\
+	\end{array} } \right) E_0
+\end{equation}
+
+with $E_0$ the amplitude of the incoming electric field vector. In the following, we set $E_0$ to 1. $\Theta$ is the angle of the linearly polarized radiation relative to the s-polarization direction. The reflected field $\overrightarrow{E_r}$ can be related to the incident field through the Fresnel reflection matrix $\hat{r}$ as
+
+\begin{equation}
+\overrightarrow{E_r} = \hat{r}\overrightarrow{E_i}=\hat{r}\left({\begin{array}{c}
+	\text{cos}(\theta) \\
+	\text{sin}(\theta) \\
+	\end{array} } \right) .
+\end{equation}
+
+Now this matrix depends on the magnetization direction of the solid and can be written when $\vec{m}$ lies in the (x,y) plane as,
+
+\begin{equation}
+\hat{r}(\vec{m})= \left({\begin{array}{cc}
+	r_{ss} & r_{sp} \\
+	r_{ps} & r_{pp} \\ 
+	\end{array} } \right) 
+= \left({\begin{array}{cc}
+	r_{ss}^{(0)} & r_{sp}^{(1)}m_y Q \\
+	-r_{sp}^{(1)} m_y Q & r_{pp}^{(0)}+r_{pp}^{(1)}m_x Q \\ 
+	\end{array} } \right)
+\end{equation}
+
+with the magneto-optical Voigt constant Q=i$\epsilon_{xy}$/$\epsilon_{xx}$ and the subscripts (0) and (1) indicate the coefficients in terms independent and linear in Q, respectively. Note that for the special case of the magnetization lying entirely in the x direction, the dielectric tensor will cause only the p-polarized light to be directly affected by the magnetization.
 
 \section{Interaction of matter with X-Ray radiation}
+
+Erskine and Stern (cite 1975) first proposed the use of X-rays resonant with the core level to valence band transitions to measure magneto-optical properties in the transition metals. The first magneto-optical effects were then discovered in 1986 and 1987 (Laan and Schutz).
 
 \section{High Harmonic Generation}
 

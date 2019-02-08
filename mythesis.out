@@ -9,32 +9,34 @@
 \BOOKMARK [2][-]{subsection.2.3.2}{Heitler-London Treatment}{section.2.3}% 9
 \BOOKMARK [2][-]{subsection.2.3.3}{Model Hamiltonians: Hubbard and Heisenberg models}{section.2.3}% 10
 \BOOKMARK [1][-]{section.2.4}{Band Model of Ferromagnetism}{chapter.2}% 11
-\BOOKMARK [2][-]{subsection.2.4.1}{Bragg scattering and Band structure}{section.2.4}% 12
-\BOOKMARK [2][-]{subsection.2.4.2}{The Stoner Model}{section.2.4}% 13
-\BOOKMARK [1][-]{section.2.5}{The next frontier: ultrafast laser-induced ferromagnetism}{chapter.2}% 14
-\BOOKMARK [0][-]{chapter.3}{Description of the Experimental Techniques used in this Thesis}{}% 15
-\BOOKMARK [1][-]{section.3.1}{Magneto-Optics}{chapter.3}% 16
-\BOOKMARK [1][-]{section.3.2}{Interaction of matter with X-Ray radiation}{chapter.3}% 17
-\BOOKMARK [1][-]{section.3.3}{High Harmonic Generation}{chapter.3}% 18
-\BOOKMARK [1][-]{section.3.4}{EUV Transverse magneto-optical Kerr effect \(TMOKE\)}{chapter.3}% 19
-\BOOKMARK [0][-]{chapter.4}{Results of Nickel Experiment}{}% 20
-\BOOKMARK [1][-]{section.4.1}{Introduction}{chapter.4}% 21
-\BOOKMARK [1][-]{section.4.2}{Results}{chapter.4}% 22
-\BOOKMARK [1][-]{section.4.3}{Discussion}{chapter.4}% 23
-\BOOKMARK [1][-]{section.4.4}{Materials and Methods}{chapter.4}% 24
-\BOOKMARK [2][-]{subsection.4.4.1}{Experimental setups}{section.4.4}% 25
-\BOOKMARK [2][-]{subsection.4.4.2}{Data analysis}{section.4.4}% 26
-\BOOKMARK [2][-]{subsection.4.4.3}{Model of electronic and magnetic heat capacity}{section.4.4}% 27
-\BOOKMARK [2][-]{subsection.4.4.4}{Statistical analysis}{section.4.4}% 28
-\BOOKMARK [2][-]{subsection.4.4.5}{Details of experimental setups}{section.4.4}% 29
-\BOOKMARK [2][-]{subsection.4.4.6}{Dynamics of electron temperature}{section.4.4}% 30
-\BOOKMARK [2][-]{subsection.4.4.7}{Dynamics of the electron population at 1.6 eV}{section.4.4}% 31
-\BOOKMARK [2][-]{subsection.4.4.8}{Dynamics of Exchange Splitting}{section.4.4}% 32
-\BOOKMARK [2][-]{subsection.4.4.9}{Temperature dependence of exchange splitting in static ARPES}{section.4.4}% 33
-\BOOKMARK [2][-]{subsection.4.4.10}{Method for extracting TMOKE asymmetry dynamics from HHG spectra}{section.4.4}% 34
-\BOOKMARK [2][-]{subsection.4.4.11}{Momentum dependence of TMOKE Measurements}{section.4.4}% 35
-\BOOKMARK [2][-]{subsection.4.4.12}{Transient electron and magnetic heat capacity}{section.4.4}% 36
-\BOOKMARK [2][-]{subsection.4.4.13}{Effects of electron-phonon coupling and heat diffusion on Eq. 4.1}{section.4.4}% 37
-\BOOKMARK [0][-]{chapter.5}{Quantitative Correlation of Extreme Ultraviolet Magneto-Optic and Photoemission Spectroscopies}{}% 38
-\BOOKMARK [0][-]{chapter.6}{Direct light-induced spin transfer between elemental sublattices in a spintronic Heusler material via femtosecond laser excitation}{}% 39
-\BOOKMARK [-1][-]{chapter*.6}{ Bibliography}{}% 40
+\BOOKMARK [2][-]{subsection.2.4.1}{Shortfall of the atomic picture: predicting the magnetic moment of the transition metal solids}{section.2.4}% 12
+\BOOKMARK [2][-]{subsection.2.4.2}{Bragg scattering and Band structure}{section.2.4}% 13
+\BOOKMARK [2][-]{subsection.2.4.3}{The Stoner Model}{section.2.4}% 14
+\BOOKMARK [1][-]{section.2.5}{The next frontier: ultrafast laser-induced ferromagnet dynamics}{chapter.2}% 15
+\BOOKMARK [0][-]{chapter.3}{Experimental Techniques used in this Thesis}{}% 16
+\BOOKMARK [1][-]{section.3.1}{Kerr Effect}{chapter.3}% 17
+\BOOKMARK [2][-]{subsection.3.1.1}{Transverse magneto-optical effect \(TMOKE\)}{section.3.1}% 18
+\BOOKMARK [1][-]{section.3.2}{Interaction of matter with X-Ray radiation}{chapter.3}% 19
+\BOOKMARK [1][-]{section.3.3}{High Harmonic Generation}{chapter.3}% 20
+\BOOKMARK [1][-]{section.3.4}{EUV Transverse magneto-optical Kerr effect \(TMOKE\)}{chapter.3}% 21
+\BOOKMARK [0][-]{chapter.4}{Results of Nickel Experiment}{}% 22
+\BOOKMARK [1][-]{section.4.1}{Introduction}{chapter.4}% 23
+\BOOKMARK [1][-]{section.4.2}{Results}{chapter.4}% 24
+\BOOKMARK [1][-]{section.4.3}{Discussion}{chapter.4}% 25
+\BOOKMARK [1][-]{section.4.4}{Materials and Methods}{chapter.4}% 26
+\BOOKMARK [2][-]{subsection.4.4.1}{Experimental setups}{section.4.4}% 27
+\BOOKMARK [2][-]{subsection.4.4.2}{Data analysis}{section.4.4}% 28
+\BOOKMARK [2][-]{subsection.4.4.3}{Model of electronic and magnetic heat capacity}{section.4.4}% 29
+\BOOKMARK [2][-]{subsection.4.4.4}{Statistical analysis}{section.4.4}% 30
+\BOOKMARK [2][-]{subsection.4.4.5}{Details of experimental setups}{section.4.4}% 31
+\BOOKMARK [2][-]{subsection.4.4.6}{Dynamics of electron temperature}{section.4.4}% 32
+\BOOKMARK [2][-]{subsection.4.4.7}{Dynamics of the electron population at 1.6 eV}{section.4.4}% 33
+\BOOKMARK [2][-]{subsection.4.4.8}{Dynamics of Exchange Splitting}{section.4.4}% 34
+\BOOKMARK [2][-]{subsection.4.4.9}{Temperature dependence of exchange splitting in static ARPES}{section.4.4}% 35
+\BOOKMARK [2][-]{subsection.4.4.10}{Method for extracting TMOKE asymmetry dynamics from HHG spectra}{section.4.4}% 36
+\BOOKMARK [2][-]{subsection.4.4.11}{Momentum dependence of TMOKE Measurements}{section.4.4}% 37
+\BOOKMARK [2][-]{subsection.4.4.12}{Transient electron and magnetic heat capacity}{section.4.4}% 38
+\BOOKMARK [2][-]{subsection.4.4.13}{Effects of electron-phonon coupling and heat diffusion on Eq. 4.1}{section.4.4}% 39
+\BOOKMARK [0][-]{chapter.5}{Quantitative Correlation of Extreme Ultraviolet Magneto-Optic and Photoemission Spectroscopies}{}% 40
+\BOOKMARK [0][-]{chapter.6}{Direct light-induced spin transfer between elemental sublattices in a spintronic Heusler material via femtosecond laser excitation}{}% 41
+\BOOKMARK [-1][-]{chapter*.6}{ Bibliography}{}% 42
