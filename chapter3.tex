@@ -6,6 +6,8 @@ Although visible light interacts with magnetism in materials in a non-resonant f
 
 The resonance associated with the 3p core level electrons in transition metals is commonly referred to as the M-edge, while the 2p level resonance is called the L-edge. In this section, we will explain how the resonance at the L-edge can be used to directly measure the magnetic moment of a material. This description also applies to light resonant at the M-edges. Additionally, we will focus on circularly polarized light, because it provides an intuitive and convenient basis for our discussion. However, all of the experiments performed in this thesis were in fact carried out using linearly polarized light. This is possible because linear polarization is also a combination of right and light circularly polarized light, and for certain geometries, the microscopic physics that we will discuss here leads directly to a complex dielectric permittivity tensor that interacts with linearly polarized light in a useful fashion.
 
+Erskine and Stern (cite 1975) first proposed the use of X-rays resonant with the core level to valence band transitions to measure magneto-optical properties in the transition metals. The first X-ray magneto-optical effects were then discovered in 1986 and 1987 (Laan and Schutz).
+
 \section{Resonant processes in magnetic materials: determining the X-ray absorption intensity}
 
 In this thesis, two different resonant processes are used to monitor fundamental changes in magnetic materials after ultrafast laser excitation. The first is to directly monitor the charge response using the change in absorption of the resonant extreme ultraviolet light, and the second is to monitor the change in magnetic moment using the magneto-optical Kerr effect. In this section, we theoretically derive the origin for each of these effect, starting the sum rule for charges and how the absorption intensity for a transition from a core to valence band depends directly on the number of holes in the valence band. Using this information it is a straightforward extension to see how circularly polarized light is also sensitive to the number of spin up and spin down electrons in the valence band as well. This information can then be used to monitor the magnetic moment of the material and is the fundamental basis for the magneto-optical effects employed in this thesis.
@@ -94,9 +96,9 @@ with energy $E_i(k)$, the X-ray absorption transition intensity can be written,
 I_\alpha^q = A\sum_{E_i>E_F; i ,\pmb{k}, m, j} |\braket{\Psi_i(\pmb{k},r)|P_\alpha^q|\Phi_m^j(r)}|^2 \\
 A R^2 \sum_{E_i>E_F;i,\pmb{k},m,j}|\braket{\phi_i(\pmb{k})|\sum_{p=0\pm 1}e^q_{\alpha,p}C_p^{(1)}|cm\chi^j}|^2
 \end{eqnarray}
-and by using the fact that the dipole operator does not act on spin we can write the transition intensity:
+and by using the fact that the dipole operator does not act on spin we can write the transition intensity as
 \begin{eqnarray}
-I_\alpha^q=AR^2\sum_{E_1>E_F; i\pmb{k},m}|\sum_{p,M}a_{i,M}(\pmb{k})e_{\alpha,p}^q\braket{LM|C_p^{(1)}|cm}|^2+|\sum_{p,M}b_i,M(\pmb{k})e^q_{\alpha,p}\braket{LM|C_p^{(10)}|cm}|^2
+I_\alpha^q=AR^2\sum_{E_1>E_F; i\pmb{k},m}|\sum_{p,M}a_{i,M}(\pmb{k})e_{\alpha,p}^q\braket{LM|C_p^{(1)}|cm}|^2+|\sum_{p,M}b_i,M(\pmb{k})e^q_{\alpha,p}\braket{LM|C_p^{(10)}|cm}|^2.
 \label{transI}
 \end{eqnarray}
 
@@ -109,7 +111,7 @@ I_{\alpha}^q=AR^2\sum_{E_i>E_F; i ,\pmb{k}, m}\sum_{p,M}[|a_{i,M}(\pmb{k})|^2+|b
 + AR^2\sum_{E_i>E_F; i,\pmb{k},m}\sum_{p \neq p', M \neq M'}e^q_{\alpha,p}(e^q_{\alpha,p'})*\braket{LM|C_p^{(1)}|cm}\braket{LM'|C_{p'}^{(1)}|cm}* \\
 \times [a_{i,M}(\pmb{k})(a_{i,M'}(\pmb{k}))*+b_{i,M}(\pmb{k})(b_{i,M'}(\pmb{k}))*]
 \end{align}
-from here we can perfomr and orientation average by summing over the three orthogonal polarization states q = 0,$\pm$1 or over crystal dimensions $\alpha$ = x,y,z. The cross term then vanishes and the polarization averaged transition intensity is now:
+from here we can perform an orientation average by summing over the three orthogonal polarization states q = 0,$\pm$1 or over crystal dimensions $\alpha$ = x,y,z. The cross term then vanishes and the polarization averaged transition intensity is now:
 \begin{eqnarray}
 \braket{I}=\frac{1}{3}AR^2\sum_{E_i>E_F; i,\pmb{k},M}(|a_{i,M}(\pmb{k})|^2+|b_{i,M}(\pmb{k})|^2)\sum_{p,m}|\braket{LM|C_p^{(1)}|cm}|^2\sum_{q \text{or} \alpha}|e_{\alpha,p}^q|^2
 \end{eqnarray}
@@ -125,11 +127,15 @@ This relation is called the intensity sum rule for charge and allows us to direc
 
 It is now a reasonable extension to think that if we could make the absorption of photons spin dependent, we could measure a intensity difference corresponding to the difference between spin up and spin down electrons, which is directly proportional to the magnetic moment, as shown in Chapter 2.
 
-For simplicity, we will assume a one-electron picture that corresponds to the Stoner splitting as derived in the previous chapter. For the XMCD effect to have a maximum, the magnetization direction $\pmb{M}$ of the sample and the photon spin or angular momentum $\pmb{L}_{ph}$ should be collinear.
+For simplicity, we will assume a one-electron picture that corresponds to the Stoner splitting as derived in the previous chapter. For the XMCD effect to have a maximum, the magnetization direction $\pmb{M}$ of the sample and the photon spin or angular momentum $\pmb{L}_{ph}$ should be collinear. We then measure the difference in absorption of the p $\rightarrow$ d transition for photons with positive and negative angular momentum (q = $\pm$1, $\pmb{L_{ph}}$ points in $\pm\pmb{k}$ direction). Experimentally, it is typical to fix the X-ray photon spin direction and instead switch the magnetization direction.
+
+The quantum mechanical origin of the XMCD effect can be easily explained using the Stoner model for ferromagnetism as outlined in Chapter 2. The available density of hole states is larger for the minority band, whic is important for the probability of excitation of spin-polarized electrons. When the sample is magnetized in the "up" direction, the spin down states are filled, but the spin-up states are only partially filled. When an electron is excited by a circularly polarized photon, the angular momentum of the photon must be conserved, and is transferred to the electron. Part of the angular momentum is then transferred to the spin via the spin-orbit coupling and the excited photoelectrons are spin polarized. Since the $2p_{3/2}$ ($L_3$) and $2p_{1/2}$ ($L_2$) levels have opposite spin-orbit coupling ($l$ +$s$ and $l$ - $s$), the spin polarization will be opposite for the two edges. Then, the exchange splitting in the valence shell with unequal spin up and spin down availible hole states acts as a detector for the spin of the excited photoelectrons. Fig. xx illustrates this process.
 
 \section{Kerr Effect}
 
-As outlined in the previous section, when linearly polarized light reflects from a magnetized solid it is modified in two ways: first the direction of polarization is rotated over an angle $\Theta_K$, and secondly the phase of the light is modified so that it becomes elliptically polarized. When the magnetization is applied in a transverse geometry (see Fig. ref), the amplitude of the light is modified as well. It is this effect, that we will employ for the majority of the work in this thesis, due to the fact that changes in intensity are much simpler to monitor in the EUV light regime than changes in the polarization of the light.
+The microscopic origin for XMCD is identical to that of resonant magneto optical Kerr effect. This process simply employs the EUV light's sensitivity to the exchange splitting in a reflection geometry. The origin of the dielectric tensor that interacts with the incident light is the same as that outlined above. From here, we will treat the interaction of light with the dielectric tensor, since it provides a convenient way for computing magneto-optical effects (which can manifest themselves in a number of different ways depending on the geometry used).
+
+When linearly polarized light reflects from a magnetized solid it is modified in two ways: first the direction of polarization is rotated over an angle $\Theta_K$, and secondly the phase of the light is modified so that it becomes elliptically polarized. When the magnetization is applied in a transverse geometry (see Fig. ref), the amplitude of the light is modified as well. It is this effect, that we will employ for the majority of the work in this thesis, due to the fact that changes in intensity are much simpler to monitor in the EUV light regime than changes in the polarization of the light.
 
 \subsection{Transverse magneto-optical effect (TMOKE)}
  
@@ -181,9 +187,7 @@ A = \frac{m_x(1-\cos{2\theta})\text{Re}(r_{pp}^{(0*)}r_{pp}^{(1)}Q)}{|r_{pp}^{(0
 \end{equation}
 
 
-\section{Interaction of matter with X-Ray radiation}
-
-Erskine and Stern (cite 1975) first proposed the use of X-rays resonant with the core level to valence band transitions to measure magneto-optical properties in the transition metals. The first X-ray magneto-optical effects were then discovered in 1986 and 1987 (Laan and Schutz).
-
 \section{High Harmonic Generation}
 
+\section{Details of Experimental Setup}
+For the Tr-TMOKE experiments, the experimental layout is given in Fig \ref{fig: NiSIfig1}C. A regenerative Ti:Sapphire amplifier system is used to generate pulses of up to 1.8 mJ at a repetition rate of 5 kHz. The beam is then split with a 10:1 beamsplitter for use in the pump/probe configuration. The probe beam is focused with a 50 cm lens into a hollow core fiber with a diameter of 150 $\mu$m. The hollow core fiber is filled with He gas at a pressure of 1 Torr, where high harmonics of the fundamental beam are generated. After the harmonics are generated, the beam passes through an iris to remove some of the residual fundamental mode, is reflected by a toroid with an effective focal length of 30 cm, and passes through an aluminum filter of thickness 500 nm. Next, the harmonic beam is rejoined by the p-polarized pump beam, and the two are incident on the sample at an angle of 48 degrees measured with respect to the normal. The timing of the pump beam with respect to the probe is controlled by a mechanical delay stage. The power in the pump arm is controlled by a polarizer and mechanical half waveplate combination (for fluence dependent studies). The FWHM of the pump pulse for both the TMOKE and reflectivity measurements at the location of the sample was determined to be 55 fs by in-situ frequency resolved optical gating measurements. After reflecting off the sample, the HHG probe reflects off a grating (500 lines/mm) placed in the conical mount configuration and passes through two more aluminum filters of thickness 200 nm before being measured by an Andor Newton X-ray CCD detector.
