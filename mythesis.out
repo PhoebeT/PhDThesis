@@ -1,46 +1,68 @@
 \BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
-\BOOKMARK [0][-]{chapter.2}{Ferromagnetism in Atoms, Molecules, and Solids}{}% 2
-\BOOKMARK [1][-]{section.2.1}{Introduction}{chapter.2}% 3
-\BOOKMARK [1][-]{section.2.2}{Atom Based Description of Magnetism}{chapter.2}% 4
-\BOOKMARK [2][-]{subsection.2.2.1}{Spin Dependent Atomic Hamiltonian \(Pauli Equation\)}{section.2.2}% 5
-\BOOKMARK [2][-]{subsection.2.2.2}{Exchange Interaction}{section.2.2}% 6
-\BOOKMARK [1][-]{section.2.3}{Electron Exchange in Molecules}{chapter.2}% 7
-\BOOKMARK [2][-]{subsection.2.3.1}{Independent Electron Treatment}{section.2.3}% 8
-\BOOKMARK [2][-]{subsection.2.3.2}{Heitler-London Treatment}{section.2.3}% 9
-\BOOKMARK [2][-]{subsection.2.3.3}{Model Hamiltonians: Hubbard and Heisenberg models}{section.2.3}% 10
-\BOOKMARK [1][-]{section.2.4}{Band Model of Ferromagnetism}{chapter.2}% 11
-\BOOKMARK [2][-]{subsection.2.4.1}{Shortfall of the atomic picture: predicting the magnetic moment of the transition metal solids}{section.2.4}% 12
-\BOOKMARK [2][-]{subsection.2.4.2}{Bragg scattering and Band structure}{section.2.4}% 13
-\BOOKMARK [2][-]{subsection.2.4.3}{The Stoner Model}{section.2.4}% 14
-\BOOKMARK [1][-]{section.2.5}{The next frontier: ultrafast laser-induced ferromagnet dynamics}{chapter.2}% 15
-\BOOKMARK [0][-]{chapter.3}{Experimental Techniques}{}% 16
-\BOOKMARK [1][-]{section.3.1}{Resonant processes in magnetic materials: determining the X-ray absorption intensity}{chapter.3}% 17
-\BOOKMARK [2][-]{subsection.3.1.1}{Transition matrix element for atoms}{section.3.1}% 18
-\BOOKMARK [2][-]{subsection.3.1.2}{Transition matrix elements for atoms in solids}{section.3.1}% 19
-\BOOKMARK [2][-]{subsection.3.1.3}{Intensity Sum Rule for Charge}{section.3.1}% 20
-\BOOKMARK [2][-]{subsection.3.1.4}{X-ray Magnetic Circular Dichroism}{section.3.1}% 21
-\BOOKMARK [1][-]{section.3.2}{Kerr Effect}{chapter.3}% 22
-\BOOKMARK [2][-]{subsection.3.2.1}{Transverse magneto-optical effect \(TMOKE\)}{section.3.2}% 23
-\BOOKMARK [1][-]{section.3.3}{High Harmonic Generation}{chapter.3}% 24
-\BOOKMARK [1][-]{section.3.4}{Details of Experimental Setup}{chapter.3}% 25
-\BOOKMARK [0][-]{chapter.4}{Results of Nickel Experiment}{}% 26
-\BOOKMARK [1][-]{section.4.1}{Introduction}{chapter.4}% 27
-\BOOKMARK [1][-]{section.4.2}{Results}{chapter.4}% 28
-\BOOKMARK [1][-]{section.4.3}{Discussion}{chapter.4}% 29
-\BOOKMARK [1][-]{section.4.4}{Materials and Methods}{chapter.4}% 30
-\BOOKMARK [2][-]{subsection.4.4.1}{Experimental setups}{section.4.4}% 31
-\BOOKMARK [2][-]{subsection.4.4.2}{Data analysis}{section.4.4}% 32
-\BOOKMARK [2][-]{subsection.4.4.3}{Model of electronic and magnetic heat capacity}{section.4.4}% 33
-\BOOKMARK [2][-]{subsection.4.4.4}{Statistical analysis}{section.4.4}% 34
-\BOOKMARK [2][-]{subsection.4.4.5}{Details of experimental setups}{section.4.4}% 35
-\BOOKMARK [2][-]{subsection.4.4.6}{Dynamics of electron temperature}{section.4.4}% 36
-\BOOKMARK [2][-]{subsection.4.4.7}{Dynamics of the electron population at 1.6 eV}{section.4.4}% 37
-\BOOKMARK [2][-]{subsection.4.4.8}{Dynamics of Exchange Splitting}{section.4.4}% 38
-\BOOKMARK [2][-]{subsection.4.4.9}{Temperature dependence of exchange splitting in static ARPES}{section.4.4}% 39
-\BOOKMARK [2][-]{subsection.4.4.10}{Method for extracting TMOKE asymmetry dynamics from HHG spectra}{section.4.4}% 40
-\BOOKMARK [2][-]{subsection.4.4.11}{Momentum dependence of TMOKE Measurements}{section.4.4}% 41
-\BOOKMARK [2][-]{subsection.4.4.12}{Transient electron and magnetic heat capacity}{section.4.4}% 42
-\BOOKMARK [2][-]{subsection.4.4.13}{Effects of electron-phonon coupling and heat diffusion on Eq. 4.1}{section.4.4}% 43
-\BOOKMARK [0][-]{chapter.5}{Quantitative Correlation of Extreme Ultraviolet Magneto-Optic and Photoemission Spectroscopies}{}% 44
-\BOOKMARK [0][-]{chapter.6}{Direct light-induced spin transfer between elemental sublattices in a spintronic Heusler material via femtosecond laser excitation}{}% 45
-\BOOKMARK [-1][-]{chapter*.6}{ Bibliography}{}% 46
+\BOOKMARK [1][-]{section.1.1}{Fundamental motivation}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Application driven results}{chapter.1}% 3
+\BOOKMARK [0][-]{chapter.2}{Ferromagnetism in Atoms, Molecules, and Solids}{}% 4
+\BOOKMARK [1][-]{section.2.1}{Introduction}{chapter.2}% 5
+\BOOKMARK [1][-]{section.2.2}{Atom Based Description of Magnetism}{chapter.2}% 6
+\BOOKMARK [2][-]{subsection.2.2.1}{Spin Dependent Atomic Hamiltonian \(Pauli Equation\)}{section.2.2}% 7
+\BOOKMARK [2][-]{subsection.2.2.2}{Exchange Interaction}{section.2.2}% 8
+\BOOKMARK [1][-]{section.2.3}{Electron Exchange in Molecules}{chapter.2}% 9
+\BOOKMARK [2][-]{subsection.2.3.1}{Independent Electron Treatment}{section.2.3}% 10
+\BOOKMARK [2][-]{subsection.2.3.2}{Heitler-London Treatment}{section.2.3}% 11
+\BOOKMARK [2][-]{subsection.2.3.3}{Model Hamiltonians: Hubbard and Heisenberg models}{section.2.3}% 12
+\BOOKMARK [1][-]{section.2.4}{Band Model of Ferromagnetism}{chapter.2}% 13
+\BOOKMARK [2][-]{subsection.2.4.1}{Shortfall of the atomic picture: predicting the magnetic moment of the transition metal solids}{section.2.4}% 14
+\BOOKMARK [2][-]{subsection.2.4.2}{Bragg scattering and Band structure}{section.2.4}% 15
+\BOOKMARK [2][-]{subsection.2.4.3}{The Stoner Model}{section.2.4}% 16
+\BOOKMARK [1][-]{section.2.5}{The next frontier: ultrafast laser-induced ferromagnet dynamics}{chapter.2}% 17
+\BOOKMARK [0][-]{chapter.3}{Theory and Method of Experimental Techniques}{}% 18
+\BOOKMARK [1][-]{section.3.1}{Resonant processes in magnetic materials: determining the X-ray absorption intensity}{chapter.3}% 19
+\BOOKMARK [2][-]{subsection.3.1.1}{Transition matrix element for atoms}{section.3.1}% 20
+\BOOKMARK [2][-]{subsection.3.1.2}{Transition matrix elements for atoms in solids}{section.3.1}% 21
+\BOOKMARK [2][-]{subsection.3.1.3}{Intensity Sum Rule for Charge}{section.3.1}% 22
+\BOOKMARK [2][-]{subsection.3.1.4}{X-ray Magnetic Circular Dichroism}{section.3.1}% 23
+\BOOKMARK [1][-]{section.3.2}{Kerr Effect}{chapter.3}% 24
+\BOOKMARK [2][-]{subsection.3.2.1}{Transverse magneto-optical effect \(TMOKE\)}{section.3.2}% 25
+\BOOKMARK [1][-]{section.3.3}{High Harmonic Generation}{chapter.3}% 26
+\BOOKMARK [1][-]{section.3.4}{Details of the experimental setup}{chapter.3}% 27
+\BOOKMARK [0][-]{chapter.4}{Critical behavior within 20 fs drives the out-of-equilibrium laser-induced magnetic phase transition in nickel}{}% 28
+\BOOKMARK [1][-]{section.4.1}{Introduction}{chapter.4}% 29
+\BOOKMARK [1][-]{section.4.2}{Results}{chapter.4}% 30
+\BOOKMARK [1][-]{section.4.3}{Discussion}{chapter.4}% 31
+\BOOKMARK [1][-]{section.4.4}{Materials and Methods}{chapter.4}% 32
+\BOOKMARK [2][-]{subsection.4.4.1}{Experimental setups}{section.4.4}% 33
+\BOOKMARK [2][-]{subsection.4.4.2}{Data analysis}{section.4.4}% 34
+\BOOKMARK [2][-]{subsection.4.4.3}{Model of electronic and magnetic heat capacity}{section.4.4}% 35
+\BOOKMARK [2][-]{subsection.4.4.4}{Statistical analysis}{section.4.4}% 36
+\BOOKMARK [2][-]{subsection.4.4.5}{Details of experimental setups}{section.4.4}% 37
+\BOOKMARK [2][-]{subsection.4.4.6}{Method for extracting TMOKE asymmetry dynamics from HHG spectra}{section.4.4}% 38
+\BOOKMARK [2][-]{subsection.4.4.7}{Momentum dependence of TMOKE Measurements}{section.4.4}% 39
+\BOOKMARK [2][-]{subsection.4.4.8}{Transient electron and magnetic heat capacity}{section.4.4}% 40
+\BOOKMARK [2][-]{subsection.4.4.9}{Effects of electron-phonon coupling and heat diffusion on Eq. 4.1}{section.4.4}% 41
+\BOOKMARK [0][-]{chapter.5}{Quantitative Correlation of Extreme Ultraviolet Magneto-Optic and Photoemission Spectroscopies}{}% 42
+\BOOKMARK [1][-]{section.5.1}{Supporting information}{chapter.5}% 43
+\BOOKMARK [2][-]{subsection.5.1.1}{Calculation of absorbed fluence}{section.5.1}% 44
+\BOOKMARK [2][-]{subsection.5.1.2}{Derivation of TMOKE Depth Sensitivity Function}{section.5.1}% 45
+\BOOKMARK [2][-]{subsection.5.1.3}{Comparison of TMOKE fitting between models with and without critical fluence}{section.5.1}% 46
+\BOOKMARK [2][-]{subsection.5.1.4}{Fluence dependence of the exchange-splitting dynamics}{section.5.1}% 47
+\BOOKMARK [2][-]{subsection.5.1.5}{Thermal or non-thermal nature of ultrafast demagnetization?}{section.5.1}% 48
+\BOOKMARK [2][-]{subsection.5.1.6}{Demagnetization and recovery timescales}{section.5.1}% 49
+\BOOKMARK [0][-]{chapter.6}{Direct light-induced spin transfer between elemental sublattices in a spintronic Heusler material via femtosecond laser excitation}{}% 50
+\BOOKMARK [0][-]{chapter.7}{Concluding Remarks and Future Directions}{}% 51
+\BOOKMARK [-1][-]{chapter*.6}{ Bibliography}{}% 52
+\BOOKMARK [0][-]{appendix.A}{Details about the Angle Resolved Photoemission Experiments}{chapter*.6}% 53
+\BOOKMARK [1][-]{section.A.1}{Dynamics of electron temperature}{appendix.A}% 54
+\BOOKMARK [1][-]{section.A.2}{Dynamics of the electron population at 1.6 eV}{appendix.A}% 55
+\BOOKMARK [1][-]{section.A.3}{Dynamics of Exchange Splitting}{appendix.A}% 56
+\BOOKMARK [1][-]{section.A.4}{Temperature dependence of exchange splitting in static ARPES}{appendix.A}% 57
+\BOOKMARK [0][-]{appendix.B}{Details of the Heusler dynamics and corresponding DFT calculations}{chapter*.6}% 58
+\BOOKMARK [1][-]{section.B.1}{Further details of the experimental setup}{appendix.B}% 59
+\BOOKMARK [1][-]{section.B.2}{Sample preparation}{appendix.B}% 60
+\BOOKMARK [1][-]{section.B.3}{Change in reflectivity due to optical excitation in both phases}{appendix.B}% 61
+\BOOKMARK [1][-]{section.B.4}{Element averaged response of the A2 and B2 phases}{appendix.B}% 62
+\BOOKMARK [1][-]{section.B.5}{Dynamics of Co2MnGe on -Al2O3}{appendix.B}% 63
+\BOOKMARK [1][-]{section.B.6}{Method for calculating density of states and magnetic moments from density functional theory}{appendix.B}% 64
+\BOOKMARK [1][-]{section.B.7}{Probabilities for laser-driven transitions in the B2 and A2 phases}{appendix.B}% 65
+\BOOKMARK [1][-]{section.B.8}{Results of the calculations of k-conserving transition probabilities for the L21 phase}{appendix.B}% 66
+\BOOKMARK [1][-]{section.B.9}{Results of atomistic Landau-Lifshitz-Gilbert simulations}{appendix.B}% 67
+\BOOKMARK [2][-]{subsection.B.9.1}{Numerical method}{section.B.9}% 68

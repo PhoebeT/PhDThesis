@@ -1,87 +1,76 @@
-\chapter{Weird Exam Answers}	% *NOT* \OnePageChapter
+\chapter{Details about the Angle Resolved Photoemission Experiments}	% *NOT* \OnePageChapter
 
-\paragraph{About appendices:}
-	Each appendix follow the same page-numbering rules
-	as a regular chapter; the first page of a
-	(multi-page) appendix is not numbered.
-	By the way, the following are supposedly
-	authentic answers to English GCSE exams!
+\section{Dynamics of electron temperature}
+The photoelectron spectra of Ni(111) along  direction are measured using $\approx$16 eV photons from HHG. After Shirley background subtraction (43), the photoemission intensity across $E_{F}$ can be described by the Fermi-Dirac (FD) distribution multiplied by the density of states of the material. In order to extract the time-dependent electron temperature ($T_e$), we fit the photoemission intensity (I) integrated from k$\/\/ \approx$ 0.85 $\AA^{-1}$  to k$\/\/ \approx$ 1.3 $\AA^{-1}$ as shown in Fig. \ref{fig: NiSIfig2}A to the function,
+\begin{equation}
+I(t_{d})=\{A(t_d)\times FD[E_F(t_d),T_e(t_d)]\times DOS[E_F(t_d)-E_B,\sigma_L]\}\times\textit{Gauss}(\sigma_G)
+\label{eqn:S1}
+\end{equation}
+where A is the amplitude parameter, FD the Fermi-Dirac function. DOS in Eq. \ref{eqn:S1} is the density-of-states function, modeled as a Lorentzian peak with a peak center at $E_F$-$E_B$ and a peak width of $\sigma_L$. Here, $E_B$ is the binding energy of the state. The function is finally convolved with a Gaussian function (Gauss) with a width $\sigma_G$, which represents the energy resolution of $\approx$160 meV in our experiments. The fitting error of the photoemission intensity to Eq. \ref{eqn:S1} is defined as $\sigma_{fit}$.
 
+We note that with pump fluences F>2 mJ/$cm^2$, the space charge effects caused by surface charging and multi-photon photoemission induced by the IR pump laser are inevitable, and induce time-dependent energy shifts of the photoemission spectra in the Tr-ARPES experiments(45). At the same time, because we are only interested in the photoemission intensity within $\approx$1 eV across EF, the space-charge induced energy shifts in this small energy window can be assumed to be an energy-independent constant. As a result, in Eq. \ref{eqn:S1}, we model the Fermi energy $E_F$ as a time-dependent parameter, while the binding energy of the state ($E_B$) is a time independent parameter. Because the electron temperature $T_e$ is determined by the slope of the FD function across $E_F$, this fact allows us to mostly decouple $T_e$ from the space-charge induced energy shifts in the fitting procedure.
 
-\begin{enumerate}
+When fitting the photoemission intensities at different td to eq. S1, we first determine the time independent parameters ($E_B$, $\sigma_L$) with the spectrum obtained at $t_d$ before the pump-probe time zero (e.g. $t_d$ = -500 fs). Then we can fix these parameters in the following fitting procedures for the other $t_d$. Typically, $E_B \approx$ 0.15 eV and $\sigma_L \approx$ 0.4 eV are used for all the data sets. The time dependent parameters $E_F$ and $T_e$ can be reliably extracted using the fitting procedure described above. The fitting results for F $\approx$ 6 mJ/cm2 at $t_d$ = -500 fs and 24 fs are shown as an example in Fig. \ref{fig: NiSIfig2}B and C. The extracted values of $E_F$ also allow us to compensate the pump-induced space charge effect by assuming EF is constant after pump excitation. Indeed, the chemical potential of the majority and minority electrons can be different and shift as the electron temperature varies, but the amount of energy shift is only several meV even with the electron temperature elevated by $\approx$ 2000 K(46). The photoemission intensity at different td are plotted without the space-charge correction in Fig. \ref{fig: NiSIfig2}D and with the correction in Fig. \ref{fig: NiSIfig2}E.
 
-\item
-The Greeks were a highly sculptured people, and without
-them we wouldnt have history. The Greeks also had myths.
-A myth is a female moth.
+\begin{figure}[htbp]
+	\begin{center}
+		\includegraphics[width=150mm]{figs/NiFigS2}
+	\end{center}
+	\caption{Electron temperature fitting. (A) Photoemission spectrum of Ni(111) excited by 16 eV HHG photons at room temperature. The white dash-dotted lines represent the momentum range for the photoemission intensity in the analysis for the transient electron temperature. (B) and (C) Photoemission intensity and fitting results at $t_d$ = -500 fs and $t_d$ = 24 fs for F $\approx$ 6 mJ/cm2. The red solid lines are the fitting results using Eq. \ref{eqn:S1} and the blue dashed lines represent the DOS function used in the fitting. The black dashed-dot lines are the Fermi energy obtained from the fitting. (D) Photoemission intensity as a function of pump-probe time delay from the raw experimental data. (E) Same as (D), but the $E_F$ shifts due to pump-induced space charge effects are corrected. }
+	\label{fig: NiSIfig2}
+\end{figure}
 
-\item
-Actually, Homer was not written by Homer but by another
-man of that name.
+Moreover, the energy resolution of $\approx$160 meV in our experiments places a lower limit on the electron temperature we can extracted from the experiments and this limit has to be considered as part of the errors in our data analysis. In order to determine how much the errors from the energy resolution contribute, we model a FD distribution with a given temperature $T_{real}$ and convolve it with the energy resolution $\approx$160 meV, which is represented by a Gaussian function. A random noise of 2\% of the maximum intensity is added to model the realistic data. Then the generated distribution is fit to the same fitting function as Eq. \ref{eqn:S1}, but with DOS = 1.0. The electron temperature extracted from this fitting procedure is defined as $T{fit}$. We found when the $T_{real}$ $<$ 200K, the fitting procedure we used failed to extract the correct electron temperature, defining the lower limit of the electron temperature we can extract from the experiment with $\approx$160 meV energy resolution. But this uncertainty is decreased to only $<$10 K when the electron temperature is above the room temperature (300 K). The energy-resolution-induced uncertainty of electron temperature is also taken into consideration as $\sigma_{res}$= |$T_{real} – T_{fit}$| in the final data plotting. The total error of electron temperature (Fig. \ref{fig: Nifig3}B and \ref{fig: Nifig4}A) is defined as $\sigma_{tot}=\sqrt{\sigma_{res}^2+\sigma_{fit}^2}$. We note that in the temperature range in our experiments ($>$300 K), $\sigma_{tot}$ has a primary contribution from $\sigma_{fit}$.
 
-\item
-Socrates was a famous Greek teacher who went around
-giving people advice. They killed him. Socrates died from an
-overdose of wedlock. After his death, his career suffered a
-dramatic decline.
+\section{Dynamics of the electron population at 1.6 eV}
+The electron population change below and above EF can be directly measured using Tr-ARPES. The change of photoemission intensity taking the ground-state intensity ($t_{d}$ = -500 fs) as the reference is plotted in Fig. \ref{fig: NiSIfig3}A. We extract the electron population dynamics in two different regions with $\Delta$E = 0.2 eV as the size of energy window at: (a) E = 0.1 eV and (b) E = 1.6 eV, as shown in Fig. \ref{fig: NiSIfig3}A. The change of electron population is measured by the integrated photoemission intensity in each energy window, taking the values before pump-probe time zero as the reference:$\Delta n(t_d)\propto\int_{\Delta E}I(E,t_d)dE-\int_{\Delta E}I(E,t_d<0)dE$. We also normalize Δn to the electron population of nickel in the conduction band before the time zero: $n_0\propto \int_{\Delta E} I(E=-0.1,t_d,0)dE$. $\Delta n/n_0$ for regions (a) and (b) with pump fluence F$\approx$6 mJ/$cm^2$ is plotted in fig. \ref{fig: NiSIfig4}B. We find while the population change at E=0.1 eV reaches 8\% of the ground state band electron population density, the increment at E=1.6 eV is only $\approx$0.8\% in maximum.
 
-\item
-Julius Caesar extinguished himself on the battlefields
-of Gaul. The Ides of March murdered him because they thought
-he was going to be made king. Dying, he gasped out: Tee hee,
-Brutus.
+The electron density directly excited by the IR pump laser can be calculated by $\Delta n=\frac{F(1-R)}{\delta\hbar\omega}$ assuming single-photon excitation, where F is the pump fluence, R the reflectivity, $\delta$ the skin depth and $\hbar\omega$ =1.6 eV the photon energy. The values of R and $\delta$ are given in table S1. We find the electron density directly excited by pump photons is $\approx$4.5 n$m^{-3}$ for the pump fluence of $\approx$6 mJ/c$m^2$. This value corresponds to $\approx$0.55\% of the d band electron density in nickel, if we consider there are 9 d electrons per nickel atom, which is in good agreement with the value we obtained at E = 1.6 eV above $E_F$. From Fig. \ref{fig: NiSIfig3}B, we find that the electron population at E = 1.6 eV rises at the same time as those at E=0.1 eV and its population is only $\approx$0.8\% of the band electrons, excluding strong influence directly from the photo-excited non-equilibrium electron population to our electron temperature measurement. Our results suggest the electron bath in nickel thermalizes in a very short time after pump excitation, consistent with strong electron-electron interactions reported in previous works (23, 24).
 
-\item
-Nero was a cruel tyranny who would torture his subjects
-by playing the fiddle to them.
+\begin{figure}[htbp]
+	\begin{center}
+		\includegraphics[width=150mm]{figs/NiFigS3}
+	\end{center}
+	\caption{Electron population dynamics. (A) The relative change of photoemission intensity as a function pump-probe time delay, taking the intensity before pump excitation ($t_d$ = -500 fs) as the reference. The yellow dashed boxes represent the two regions of energy where the changes of electron population are extracted. (B) Normalized electron population as a function of pump-probe time delay extracted from (a) and (b) regions in (A).}
+	\label{fig: NiSIfig3}
+\end{figure}
 
-\item
-In midevil times most people were alliterate. The
-greatest writer of the futile ages was Chaucer, who
-wrote many poems and verses and also wrote literature.
+\section{Dynamics of Exchange Splitting}
 
-\item
-Another story was William Tell, who shot an arrow
-through an apple while standing on his sons head.
+The exchange splitting can be clearly resolved at k$\/\/ \approx 1.05\AA^{-1}$ in the photoemission spectra excited by $\approx$16 eV HHG photons as shown in Fig. \ref{fig: NiSIfig2}C of the main text. In order to extract the exchange splitting and improve the signal to noise ratio in the data analysis, the photoemission intensity is extracted along the direction normal to the band dispersion ($\approx 10\deg$ tilted from the constant momentum direction) as shown in Fig. \ref{fig: NiSIfig4}A and B. The photoemission intensity (I) after Shirley-background subtraction (43) is hence fitted to the function
+\begin{equation}
+I(E)=\Sigma_{m=1,2,3} A_m \times V(E;E_m^0,\sigma_m^G,\sigma_m^L)
+\label{eqn:S2}
+\end{equation}
+where E is the photoelectron energy, m represents the index of the Voigt functions, $V(E;E_m^0,\sigma_m^G,\sigma_m^L)$ is the normalized Voigt function with $E_m^0$ the center energy,$\sigma_m^G$ the Gaussian width and $\sigma_m^L$ the Lorentzian width of the $m^{th}$ Voigt function, and $A_m$ is the amplitude of the $m^{th}$ Voigt function. The typical fitting results of photoemission intensity are shown in Fig. \ref{fig: NiSIfig4}C-F for fluence below and above $F_{c}$ and at different times. As shown in Fig. \ref{fig: NiSIfig4}C, the first Voigt peak (m=1) represents a low energy d band with a binding energy of $\approx$0.6 eV, which does not change after pump excitation. The second and third Voigt peaks (m=2, 3), on the other hand, correspond to the majority and minority d bands that cross the Fermi energy at k$\/\/ \approx  1.05 \AA^{-1}$(20). When fitting the results to extract the exchange splitting change as a function of pump-probe time delay, we 1) fix the Gaussian width of all Voigt peaks considering the energy resolution of $\approx$160 meV; 2) fix the parameters of the third Voigt function (m=3) and the width of the second Voigt function (m=2), using the values obtained from the ground-state fitting ($t_d$ = -500 fs). As a result, we have 5 fitting parameters $(A_1,E_1^0,\sigma_1^L,A_2,E_2^0)$ and the exchange splitting is defined and extracted as  $E_{ex}=E_1^0-E_2^0$. The extracted $E_{ex}$ is ~240 meV in the ground state, which is consistent with previous works at a similar Brillouin-zone (BZ) point (20). 
 
-\item
-Writing at the same time as Shakespeare was Miguel
-Cervantes. He wrote Donkey Hote. The next great author
-was John Milton. Milton wrote Paradise Lost. Then his
-wife died and he wrote Paradise Regained.
+\begin{figure}[htbp]
+	\begin{center}
+		\includegraphics[width=150mm]{figs/NiFigS4}
+	\end{center}
+	\caption{Analysis of exchange splitting. (A) and (B) Photoemission spectra of Ni(111) before (td = -500 fs) and after (td = 500 fs) pump excitation. The solid black boxes represent the regions the photoemission intensities are extracted for the analysis on the exchange splitting. (C)-(D) The photoemission intensities and the Voigt function fitting (Eq. S2) results for different pump fluences and different pump-probe time delays. The red lines are the overall fitting results. The Cyan, blue and green curves represent the extracted Voigt peaks for m=1, 2 (majority band) and 3(minority band).}
+	\label{fig: NiSIfig4}
+\end{figure}
 
-\item
-During the Renaissance America began. Christopher
-Columbus was a great navigator who discovered America while
-cursing about the Atlantic. His ships were called the Nina,
-the Pinta, and the Santa Fe.
+We note that our analysis shows that $E_{ex}$ does not vanish after pump excitation. (Same as the sample is heated up across the Curie temperature, see below.) It has been shown that the absolute value of exchange splitting measured in the spin-integrated photoemission depends on the model and the fitting strategy(46). In our work, the 160 meV energy resolution, as well as the fitting model in which two peaks (majority and minority bands) are always assumed to exist, post the limit of our ability to resolve the collapse of the exchange splitting beyond $\Delta E_{ex}$ = 60 meV. In order to extract reliable dynamics of the exchange splitting, we consistently used the same fitting strategy as described above for different time delays as well as different fluences. The fact that the extracted dynamics of exchange splitting can agree with the demagnetization process measured using Tr-TMOKE method (Fig. \ref{fig: Nifig2}A and D) also validates our fitting strategy and strongly suggests that the dynamics of $E_{ex}$ can represent the dynamics of magnetization after pump excitation. At the same time, the difference of exchange splitting for fluence below and above $F_c$ at $t_d$ =  2 ps can be clearly resolved from the raw experimental data as shown in Fig. \ref{fig: NiSIfig4}D and F.
 
-\item
-Gravity was invented by Issac Walton. It is chiefly
-noticeable in the autumn when the apples are falling
-off the trees.
+The change of the exchange splitting  ($\Delta E_{ex})$ as a function of $t_d$ under different pump fluence are fit to Eq. 3.2. We find the results can be fit with a set of universal time constants: $\tau_{demag}=176\pm$27 fs, $\tau_{recover_1}$=537$\pm$173 fs and $\tau_{recover_2}$=26$\pm$11 ps, as plotted in Fig. \ref{fig: NiSIfig5}.
 
-\item
-Johann Bach wrote a great many musical compositions and
-had a large number of children. In between he practiced on
-an old spinster which he kept up in his attic. Bach died
-from 1750 to the present. Bach was the most famous composer
-in the world and so was Handel. Handel was half German
-half Italian and half English. He was very large.
+\begin{figure}[htbp]
+	\begin{center}
+		\includegraphics[width=70mm]{figs/NiFigS5}
+	\end{center}
+	\caption{Global fitting of the exchange splitting dynamics. The global fitting results of the exchange splitting dynamics to Eq. \ref{eqn:2} for a range of pump fluences (F= 1.17 mJ/c$m^2$ to F = 14.12 mJ/c$m^2$).}
+	\label{fig: NiSIfig5}
+\end{figure}
 
-\item
-Soon the Constitution of the United States was adopted
-to secure domestic hostility. Under the constitution the
-people enjoyed the right to keep bare arms.
+\section{Temperature dependence of exchange splitting in static ARPES}
+The static photoelectron spectrum along  direction measured using He I$\alpha$ photons (h$\nu$ = 21.218 eV) from helium discharge lamp at room temperature is shown in Fig. \ref{fig: NiSIfig6}A. The exchange splitting ($E_{ex}$) between the majority and minority bands of Ni can be clearly observed at the momentum  $\approx$ 1.05 $\AA^{-1}$ where its d band crosses the Fermi energy ($E_F$). The values of $E_{ex}$ can be quantitatively extracted using the same fitting procedures described in the previous section. We find $E_{ex}$ reduces as the sample temperature approaches the Curie temperature (~631 K) as shown in Fig. \ref{fig: NiSIfig6}B, indicating the quenching of the local magnetic moments (1, 20).
 
-\item
-The sun never set on the British Empire because the
-British Empire is In the East and the sun sets in the West.
-
-\item
-Louis Pasteur discovered a cure for rabbis. Charles
-Darwin was a naturalist who wrote the Organ of the Species.
-Madman Curie discovered radio. And Karl Marx became one of
-the Marx brothers.
-
-\end{enumerate}
+\begin{figure}[htbp]
+	\begin{center}
+		\includegraphics[width=150mm]{figs/NiFigS6}
+	\end{center}
+	\caption{Collapse of exchange splitting at the Curie temperature. (A) Static photoemission spectrum excited by He I$\alpha$ photons (h$\nu$ = 21.218 eV) at the room temperature. Right panel: Energy distribution curve extracted at the momentum where the red dashed line is located. The exchange splitting ($E_{ex}$) can be clearly extracted using fitting procedure described in the previous section. (B) $E_{ex}$ change reduces as the sample temperature increases.}
+	\label{fig: NiSIfig6}
+\end{figure}

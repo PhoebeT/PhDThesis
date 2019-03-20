@@ -1,46 +1,23 @@
 \begin{thebibliography}{10}
 
-\bibitem{Sakuri1994}
-J.J. Sakuri.
-\newblock {\em {Modern Quantum Mechanics, Revised Edition}}.
-\newblock 1994.
-
-\bibitem{Stohr2006}
-J.~Stohr and H.~C. Siegmann.
-\newblock {\em {Magnetism: From Fundamentals to Nanoscale Dynamics}}.
-\newblock Springer, 2006.
+\bibitem{Fognini2015}
+A.~Fognini, G.~Salvatella, R.~Gort, T.~Michlmayr, A.~Vaterlaus, and
+  Y.~Acremann.
+\newblock {The influence of the excitation pulse length on ultrafast
+  magnetization dynamics in nickel}.
+\newblock {\em Structural Dynamics}, 2(2), 2015.
 
 \bibitem{E.BeaupaireJ-CMerleA.Daunois1996}
 J-Y~Bigot {E. Beaupaire, J-C Merle, A. Daunois}.
 \newblock {Ultrafast Spin Dynamics in Ferromagnetic Nickel}.
 \newblock 76(22):1--4, 1996.
 
-\bibitem{Koopmans2010}
-B~Koopmans, G~Malinowski, F~{Dalla Longa}, D~Steiauf, M~F{\"{a}}hnle, T~Roth,
-  M~Cinchetti, and M~Aeschlimann.
-\newblock {Explaining the paradoxical diversity of ultrafast laser-induced
-  demagnetization.}
-\newblock {\em Nature materials}, 9(3):259--265, 2009.
-
-\bibitem{Zhang2009}
-G.~P. Zhang, W.~H{\"{u}}bner, Georgios Lefkidis, Yihua Bai, and Thomas~F.
-  George.
-\newblock {Paradigm of the time-resolved magneto-optical Kerr effect for
-  femtosecond magnetism}.
-\newblock {\em Nature Physics}, 5(7):499--502, 2009.
-
-\bibitem{Krauß2009}
-Michael Krau{\ss}, Tobias Roth, Sabine Alebrand, Daniel Steil, Mirko Cinchetti,
-  Martin Aeschlimann, and Hans~Christian Schneider.
-\newblock {Ultrafast demagnetization of ferromagnetic transition metals: The
-  role of the Coulomb interaction}.
-\newblock {\em Physical Review B - Condensed Matter and Materials Physics},
-  80(18):1--4, 2009.
-
-\bibitem{Bigot2009}
-Jean-Yves Bigot, Mircea Vomir, and Eric Beaurepaire.
-\newblock {Coherent ultrafast magnetism induced by femtosecond laser pulses}.
-\newblock {\em Nature Physics}, 5(7):515--520, 2009.
+\bibitem{Carley2012}
+Robert Carley, Kristian D{\"{o}}brich, Bj{\"{o}}rn Frietsch, Cornelius Gahl,
+  Martin Teichmann, Olaf Schwarzkopf, Philippe Wernet, and Martin Weinelt.
+\newblock {Femtosecond Laser Excitation Drives Ferromagnetic Gadolinium out of
+  Magnetic Equilibrium}.
+\newblock {\em Physical Review Letters}, 109(5):1--4, 2012.
 
 \bibitem{Carpene2015}
 E.~Carpene, H.~Hedayat, F.~Boschini, and C.~Dallera.
@@ -49,51 +26,41 @@ E.~Carpene, H.~Hedayat, F.~Boschini, and C.~Dallera.
 \newblock {\em Physical Review B - Condensed Matter and Materials Physics},
   91(17):1--8, 2015.
 
-\bibitem{Mueller2013}
-B.~Y. Mueller, A.~Baral, S.~Vollmar, M.~Cinchetti, M.~Aeschlimann, H.~C.
-  Schneider, and B.~Rethfeld.
-\newblock {Feedback effect during ultrafast demagnetization dynamics in
-  ferromagnets}.
-\newblock {\em Physical Review Letters}, 111(16):1--5, 2013.
+\bibitem{Eich2017}
+Steffen Eich, Moritz Pl{\"{o}}tzing, Markus Rollinger, Sebastian Emmerich,
+  Roman Adam, Cong Chen, Henry~Cornelius Kapteyn, Margaret~M Murnane, Lukasz
+  Plucinski, Daniel Steil, Benjamin Stadtm{\"{u}}ller, Mirko Cinchetti, Martin
+  Aeschlimann, Claus~M Schneider, and Stefan Mathias.
+\newblock {Band structure evolution during the ultrafast
+  ferromagnetic-paramagnetic phase transition in cobalt}.
+\newblock {\em Science Advances}, (March):1--9, 2017.
 
-\bibitem{La-O-Vorakiat2012}
-Chan La-O-Vorakiat, Emrah Turgut, Carson~A. Teale, Henry~C. Kapteyn,
-  Margaret~M. Murnane, Stefan Mathias, Martin Aeschlimann, Claus~M. Schneider,
-  Justin~M. Shaw, Hans~T. Nembach, and T.~J. Silva.
-\newblock {Ultrafast demagnetization measurements using extreme ultraviolet
-  light: Comparison of electronic and magnetic contributions}.
-\newblock {\em Physical Review X}, 2(1):1--7, 2012.
+\bibitem{Koopmans2005}
+B.~Koopmans, J.~J.M. Ruigrok, F.~{Dalla Longa}, and W.~J.M. {De Jonge}.
+\newblock {Unifying ultrafast magnetization dynamics}.
+\newblock {\em Physical Review Letters}, 95(26):1--4, 2005.
 
-\bibitem{Battiato2010}
-M.~Battiato, K.~Carva, and P.~M. Oppeneer.
-\newblock {Superdiffusive spin transport as a mechanism of ultrafast
-  demagnetization}.
-\newblock {\em Physical Review Letters}, 105(2):1--4, 2010.
+\bibitem{La-O-Vorakiat2009}
+Chan La-O-Vorakiat, Mark Siemens, Margaret~M. Murnane, Henry~C. Kapteyn, Stefan
+  Mathias, Martin Aeschlimann, Patrik Grychtol, Roman Adam, Claus~M. Schneider,
+  Justin~M. Shaw, Hans Nembach, and T.~J. Silva.
+\newblock {Ultrafast demagnetization dynamics at the M edges of magnetic
+  elements observed using a tabletop high-harmonic soft X-ray source}.
+\newblock {\em Physical Review Letters}, 103(25):1--4, 2009.
 
-\bibitem{Rudolf2012}
-Dennis Rudolf, Chan La-O-Vorakiat, Marco Battiato, Roman Adam, Justin~M. Shaw,
-  Emrah Turgut, Pablo Maldonado, Stefan Mathias, Patrik Grychtol, Hans~T.
-  Nembach, Thomas~J. Silva, Martin Aeschlimann, Henry~C. Kapteyn, Margaret~M.
-  Murnane, Claus~M. Schneider, and Peter~M. Oppeneer.
-\newblock {Ultrafast magnetization enhancement in metallic multilayers driven
-  by superdiffusive spin current}.
-\newblock {\em Nature Communications}, 3:1037, 2012.
+\bibitem{Mathias2012}
+S.~Mathias, C.~La-O-Vorakiat, P.~Grychtol, P.~Granitzka, E.~Turgut, J.~M. Shaw,
+  R.~Adam, H.~T. Nembach, M.~E. Siemens, S.~Eich, C.~M. Schneider, T.~J. Silva,
+  M.~Aeschlimann, M.~M. Murnane, and H.~C. Kapteyn.
+\newblock {Probing the timescale of the exchange interaction in a ferromagnetic
+  alloy}.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  109(13):4792--4797, 2012.
 
-\bibitem{Dakovski2016}
-Boris Vodungbo, Bharati Tudu, Jonathan Perron, Renaud Delaunay, Leonard
-  Mueller, Magnus~H. Berntsen, Guillaume Lambert, Philippe Zeitoun, Christian
-  Gutt, Emmanuelle Jal, Alexander~H. Reid, Patrick~W. Granitzka, Nicolas
-  Jaouen, Georgi~L. Dakovski, Stefan Moeller, Michael~P. Minitti, Ankush Mitra,
-  Sebastian Carron, Bastian Pfau, Clemens {von Korff Schmising}, Michael
-  Schneider, Stefan Eisebitt, and Jan L{\"{u}}ning.
-\newblock {Indirect excitation of ultrafast demagnetization}.
-\newblock {\em Scientific Reports}, 6(1):1--9, 2016.
-
-\bibitem{Eschenlohr2013}
-A~Eschenlohr, M~Battiato, P~Maldonado, N~Pontius, T~Kachel, K~Holldack,
-  R~Mitzner, A~F{\"{o}}hlisch, P~M Oppeneer, and C~Stamm.
-\newblock {Ultrafast spin transport as key to femtosecond demagnetization}.
-\newblock {\em Nature materials}, 12(4):332--336, 2013.
+\bibitem{Rhie2003}
+H.-S. Rhie, H.~A. D{\"{u}}rr, and W.~Eberhardt.
+\newblock {Femtosecond Electron and Spin Dynamics in Ni=W/(110) Films}.
+\newblock {\em Physical Review Letters}, 90(24):247201, 2003.
 
 \bibitem{Roth2012}
 T~Roth, A~J Schellekens, S~Alebrand, O~Schmitt, D~Steil, B~Koopmans,
@@ -102,85 +69,12 @@ T~Roth, A~J Schellekens, S~Alebrand, O~Schmitt, D~Steil, B~Koopmans,
   Key for Identifying the Underlying Mechanism}.
 \newblock 021006:1--7, 2012.
 
-\bibitem{Tows2015}
-W~T{\"{o}}ws and G~M Pastor.
-\newblock {Many-Body Theory of Ultrafast Demagnetization and Angular Momentum
-  Transfer in Ferromagnetic Transition Metals}.
-\newblock 217204(NOVEMBER):1--6, 2015.
-
-\bibitem{Zhang2012}
-Y~Zhang, T~Chuang, Kh~Zakeri, and J~Kirschner.
-\newblock {Relaxation Time of Terahertz Magnons Excited at Ferromagnetic
-  Surfaces}.
-\newblock 087203(August):1--5, 2012.
-
-\bibitem{Krieger2015}
-K.~Krieger, J.~K. Dewhurst, P.~Elliott, S.~Sharma, and E.~K.U. Gross.
-\newblock {Laser-Induced Demagnetization at Ultrashort Time Scales: Predictions
-  of TDDFT}.
-\newblock {\em Journal of Chemical Theory and Computation}, 11(10):4870--4874,
-  2015.
-
-\bibitem{Miller2012}
-David~L. Miller, Mark~W. Keller, Justin~M. Shaw, Ann~N. Chiaramonti, and
-  Robert~R. Keller.
-\newblock {Epitaxial (111) films of Cu, Ni, and Cu x Ni y on $\alpha$−Al 2 O
-  3 (0001) for graphene growth by chemical vapor deposition}.
-\newblock {\em Journal of Applied Physics}, 112(6):064317, 2012.
-
-\bibitem{Rhie2003}
-H.-S. Rhie, H.~A. D{\"{u}}rr, and W.~Eberhardt.
-\newblock {Femtosecond Electron and Spin Dynamics in Ni=W/(110) Films}.
-\newblock {\em Physical Review Letters}, 90(24):247201, 2003.
-
-\bibitem{Greber1997}
-T.~Greber, T.~Kreutz, and J.~Osterwalder.
-\newblock {Photoemission above the Fermi Level: The Top of the Minority d Band
-  in Nickel}.
-\newblock {\em Physical Review Letters}, 79(22):4465--4468, 1997.
-
-\bibitem{Knorren2000}
-R~Knorren, K~H Bennemann, R~Burgermeister, and M~Aeschlimann.
-\newblock {Dynamics of excited electrons in copper and ferromagnetic transition
-  metals: Theory and experiment}.
-\newblock 61(14):9427--9440, 2000.
-
-\bibitem{Chen2017}
-Cong Chen, Zhensheng Tao, Adra Carr, Piotr Matyba, Tibor Szilv{\'{a}}si,
-  Sebastian Emmerich, Martin Piecuch, Mark Keller, Dmitriy Zusin, Steffen Eich,
-  Markus Rollinger, Wenjing You, Stefan Mathias, Uwe Thumm, Manos Mavrikakis,
-  Martin Aeschlimann, Peter~M. Oppeneer, Henry Kapteyn, and Margaret Murnane.
-\newblock {Distinguishing attosecond electron–electron scattering and
-  screening in transition metals}.
-\newblock {\em Proceedings of the National Academy of Sciences},
-  114(27):E5300--E5307, 2017.
-
-\bibitem{Meschter1981}
-Peter~J Meschter, James~W Wright, Charlie~R Brooks, and Thomas~G. Kollie.
-\newblock {Physical Contributions to the Heat Capacity of Nickel}.
-\newblock 42(9):861--871, 1981.
-
-\bibitem{You2018}
-Wenjing You, Phoebe Tengdin, Cong Chen, Xun Shi, Dmitriy Zusin, Yingchao Zhang,
-  Christian Gentry, Adam Blonsky, Mark Keller, Peter M. Oppeneer, Henry
-  Kapteyn, Zhensheng Tao, and Margaret Murnane.
-\newblock {Revealing the Nature of the Ultrafast Magnetic Phase Transition in
-  Ni by Correlating Extreme Ultraviolet Magneto-Optic and Photoemission
-  Spectroscopies}.
-\newblock {\em Physical Review Letters}, 121(7):077204, 2018.
-
-\bibitem{Nicholson2016}
-C.~W. Nicholson, C.~Monney, R.~Carley, B.~Frietsch, J.~Bowlan, M.~Weinelt, and
-  M.~Wolf.
-\newblock {Ultrafast Spin Density Wave Transition in Chromium Governed by
-  Thermalized Electron Gas}.
-\newblock {\em Physical Review Letters}, 117(13):1--5, 2016.
-
-\bibitem{Schmidt2010}
-A~B Schmidt, M~Pickel, M~Donath, P~Buczek, A~Ernst, V~P Zhukov, P~M Echenique,
-  L~M Sandratskii, E~V Chulkov, and M~Weinelt.
-\newblock {Ultrafast Magnon Generation in an Fe Film on Cu ( 100 )}.
-\newblock 197401(November):0--3, 2010.
+\bibitem{Stamm2007}
+C.~Stamm, T.~Kachel, N.~Pontius, R.~Mitzner, T.~Quast, K.~Holldack, S.~Khan,
+  C.~Lupulescu, E.~F. Aziz, M.~Wietstruk, H.~A. D{\"{u}}rr, and W.~Eberhardt.
+\newblock {Femtosecond modification of electron localization and transfer of
+  angular momentum in nickel}.
+\newblock {\em Nature Materials}, 6(10):740--743, 2007.
 
 \bibitem{Turgut2016}
 Emrah Turgut, Dmitriy Zusin, Dominik Legut, Karel Carva, Ronny Knut, Justin~M.
@@ -191,6 +85,94 @@ Emrah Turgut, Dmitriy Zusin, Dominik Legut, Karel Carva, Ronny Knut, Justin~M.
   generation during laser-induced demagnetization}.
 \newblock {\em Physical Review B - Condensed Matter and Materials Physics},
   94(22):1--6, 2016.
+
+\bibitem{Lambert2014}
+C.~H. Lambert, S.~Mangin, B.~S.D.Ch~S. Varaprasad, Y.~K. Takahashi, M.~Hehn,
+  M.~Cinchetti, G.~Malinowski, K.~Hono, Y.~Fainman, M.~Aeschlimann, and E.~E.
+  Fullerton.
+\newblock {All-optical control of ferromagnetic thin films and nanostructures}.
+\newblock {\em Science}, 345(6202):1337--1340, 2014.
+
+\bibitem{Kimmel2005}
+A.~V. Kimel, A.~Kirilyuk, P.~A. Usachev, R.~V. Pisarev, A.~M. Balbashov, and
+  Th. Rasing.
+\newblock {Ultrafast non-thermal control of magnetization by instantaneous
+  photomagnetic pulses}.
+\newblock {\em Nature}, 435(7042):655--657, 2005.
+
+\bibitem{Boeglin2010}
+C.~Boeglin, E.~Beaurepaire, V.~Halt{\'{e}}, V.~L{\'{o}}pez-Flores, C.~Stamm,
+  N.~Pontius, H.~A. D{\"{u}}rr, and J.-Y. Bigot.
+\newblock {Distinguishing the ultrafast dynamics of spin and orbital moments in
+  solids}.
+\newblock {\em Nature}, 465(7297):458--461, 2010.
+
+\bibitem{Koopmans2010}
+B~Koopmans, G~Malinowski, F~{Dalla Longa}, D~Steiauf, M~F{\"{a}}hnle, T~Roth,
+  M~Cinchetti, and M~Aeschlimann.
+\newblock {Explaining the paradoxical diversity of ultrafast laser-induced
+  demagnetization.}
+\newblock {\em Nature materials}, 9(3):259--265, 2009.
+
+\bibitem{Mueller2011}
+B.~Y. Mueller, T.~Roth, M.~Cinchetti, M.~Aeschlimann, and B.~Rethfeld.
+\newblock {Driving force of ultrafast magnetization dynamics}.
+\newblock {\em New Journal of Physics}, 13(0001), 2011.
+
+\bibitem{Mueller2013}
+B.~Y. Mueller, A.~Baral, S.~Vollmar, M.~Cinchetti, M.~Aeschlimann, H.~C.
+  Schneider, and B.~Rethfeld.
+\newblock {Feedback effect during ultrafast demagnetization dynamics in
+  ferromagnets}.
+\newblock {\em Physical Review Letters}, 111(16):1--5, 2013.
+
+\bibitem{Krauß2009}
+Michael Krau{\ss}, Tobias Roth, Sabine Alebrand, Daniel Steil, Mirko Cinchetti,
+  Martin Aeschlimann, and Hans~Christian Schneider.
+\newblock {Ultrafast demagnetization of ferromagnetic transition metals: The
+  role of the Coulomb interaction}.
+\newblock {\em Physical Review B - Condensed Matter and Materials Physics},
+  80(18):1--4, 2009.
+
+\bibitem{Battiato2010}
+M.~Battiato, K.~Carva, and P.~M. Oppeneer.
+\newblock {Superdiffusive spin transport as a mechanism of ultrafast
+  demagnetization}.
+\newblock {\em Physical Review Letters}, 105(2):1--4, 2010.
+
+\bibitem{Eschenlohr2013}
+A~Eschenlohr, M~Battiato, P~Maldonado, N~Pontius, T~Kachel, K~Holldack,
+  R~Mitzner, A~F{\"{o}}hlisch, P~M Oppeneer, and C~Stamm.
+\newblock {Ultrafast spin transport as key to femtosecond demagnetization.}
+\newblock {\em Nature materials}, 12(4):332--336, 2013.
+
+\bibitem{Bigot2009}
+Jean-Yves Bigot, Mircea Vomir, and Eric Beaurepaire.
+\newblock {Coherent ultrafast magnetism induced by femtosecond laser pulses}.
+\newblock {\em Nature Physics}, 5(7):515--520, 2009.
+
+\bibitem{Tows2015}
+W~T{\"{o}}ws and G~M Pastor.
+\newblock {Many-Body Theory of Ultrafast Demagnetization and Angular Momentum
+  Transfer in Ferromagnetic Transition Metals}.
+\newblock 217204(NOVEMBER):1--6, 2015.
+
+\bibitem{Zhang2000}
+G~P Zhang and W~H{\"{u}}bner.
+\newblock {Laser-Induced Ultrafast Demagnetization in Ferromagnetic Metals}.
+\newblock pages 3025--3028, 2000.
+
+\bibitem{Zhang2012}
+Y~Zhang, T~Chuang, Kh~Zakeri, and J~Kirschner.
+\newblock {Relaxation Time of Terahertz Magnons Excited at Ferromagnetic
+  Surfaces}.
+\newblock 087203(August):1--5, 2012.
+
+\bibitem{Schmidt2010}
+A~B Schmidt, M~Pickel, M~Donath, P~Buczek, A~Ernst, V~P Zhukov, P~M Echenique,
+  L~M Sandratskii, E~V Chulkov, and M~Weinelt.
+\newblock {Ultrafast Magnon Generation in an Fe Film on Cu ( 100 )}.
+\newblock 197401(November):0--3, 2010.
 
 \bibitem{He2017}
 Shikun He, Yifan Liu, Yuhong Zheng, Qing Qin, Zhenchao Wen, Qingyun Wu,
@@ -247,13 +229,6 @@ K~C Kuiper, R~R J C~De Wit, B~Koopmans, and A~J Schellekens.
   excitation}.
 \newblock {\em Nature Communications}, 5:1--7, 2014.
 
-\bibitem{Lambert2014}
-C.~H. Lambert, S.~Mangin, B.~S.D.Ch~S. Varaprasad, Y.~K. Takahashi, M.~Hehn,
-  M.~Cinchetti, G.~Malinowski, K.~Hono, Y.~Fainman, M.~Aeschlimann, and E.~E.
-  Fullerton.
-\newblock {All-optical control of ferromagnetic thin films and nanostructures}.
-\newblock {\em Science}, 345(6202):1337--1340, 2014.
-
 \bibitem{Mangin2014}
 S.~Mangin, M.~Gottwald, C.~H. Lambert, D.~Steil, V.~Uhl{\'{i}}ř, L.~Pang,
   M.~Hehn, S.~Alebrand, M.~Cinchetti, G.~Malinowski, Y.~Fainman,
@@ -276,15 +251,6 @@ John Dewhurst, Peter Elliott, Sam Shallcross, Eberhard K.~U. Gross, and
 \newblock {Laser induced inter-site spin transfer}.
 \newblock {\em Nano Letters}, 18:1842−1848, 2018.
 
-\bibitem{Mathias2012}
-S.~Mathias, C.~La-O-Vorakiat, P.~Grychtol, P.~Granitzka, E.~Turgut, J.~M. Shaw,
-  R.~Adam, H.~T. Nembach, M.~E. Siemens, S.~Eich, C.~M. Schneider, T.~J. Silva,
-  M.~Aeschlimann, M.~M. Murnane, and H.~C. Kapteyn.
-\newblock {Probing the timescale of the exchange interaction in a ferromagnetic
-  alloy}.
-\newblock {\em Proceedings of the National Academy of Sciences},
-  109(13):4792--4797, 2012.
-
 \bibitem{Gort2018}
 R.~Gort, K.~B{\"{u}}hlmann, S.~D{\"{a}}ster, G.~Salvatella, N.~Hartmann,
   Y.~Zemp, S.~Holenstein, C.~Stieger, A.~Fognini, T.~U. Michlmayr,
@@ -299,6 +265,235 @@ Phoebe Tengdin, Wenjing You, Cong Chen, Xun Shi, Dmitriy Zusin, Yingchao Zhang,
 \newblock {Critical behavior within 20 fs drives the out-of-equilibrium
   laser-induced magnetic phase transition in nickel}.
 \newblock {\em Science Advances}, 4(eaap9744):eaap9744, 2018.
+
+\bibitem{Stohr2006}
+J.~Stohr and H.~C. Siegmann.
+\newblock {\em {Magnetism: From Fundamentals to Nanoscale Dynamics}}.
+\newblock Springer, 2006.
+
+\bibitem{Sakuri1994}
+J.J. Sakuri.
+\newblock {\em {Modern Quantum Mechanics, Revised Edition}}.
+\newblock 1994.
+
+\bibitem{Slater1936}
+J.~C. Slater.
+\newblock {The ferromagnetism of nickel}.
+\newblock {\em Physical Review}, 49(7):537--545, 1936.
+
+\bibitem{Slater1936a}
+J.~C. Slater.
+\newblock {The ferromagnetism of nickel. II. Temperature effects}.
+\newblock {\em Physical Review}, 49(12):931--937, 1936.
+
+\bibitem{Stoner1936}
+E~C Stoner.
+\newblock {Paramagnetism in Metals}.
+\newblock 152(1935):656--678, 1936.
+
+\bibitem{Heisenberg1937}
+The Heisenberg.
+\newblock {Collective electron ferrom agnetism}.
+\newblock 1937.
+
+\bibitem{Mott1935}
+N.~F. Mott.
+\newblock {A discussion of the transition metals on the basis of quantum
+  mechanics}.
+\newblock {\em Proceedings of the Physical Society}, 47(4):571--588, 1935.
+
+\bibitem{Zhang2009}
+G.~P. Zhang, W.~H{\"{u}}bner, Georgios Lefkidis, Yihua Bai, and Thomas~F.
+  George.
+\newblock {Paradigm of the time-resolved magneto-optical Kerr effect for
+  femtosecond magnetism}.
+\newblock {\em Nature Physics}, 5(7):499--502, 2009.
+
+\bibitem{La-O-Vorakiat2012}
+Chan La-O-Vorakiat, Emrah Turgut, Carson~A. Teale, Henry~C. Kapteyn,
+  Margaret~M. Murnane, Stefan Mathias, Martin Aeschlimann, Claus~M. Schneider,
+  Justin~M. Shaw, Hans~T. Nembach, and T.~J. Silva.
+\newblock {Ultrafast demagnetization measurements using extreme ultraviolet
+  light: Comparison of electronic and magnetic contributions}.
+\newblock {\em Physical Review X}, 2(1):1--7, 2012.
+
+\bibitem{Rudolf2012}
+Dennis Rudolf, Chan La-O-Vorakiat, Marco Battiato, Roman Adam, Justin~M. Shaw,
+  Emrah Turgut, Pablo Maldonado, Stefan Mathias, Patrik Grychtol, Hans~T.
+  Nembach, Thomas~J. Silva, Martin Aeschlimann, Henry~C. Kapteyn, Margaret~M.
+  Murnane, Claus~M. Schneider, and Peter~M. Oppeneer.
+\newblock {Ultrafast magnetization enhancement in metallic multilayers driven
+  by superdiffusive spin current}.
+\newblock {\em Nature Communications}, 3:1037, 2012.
+
+\bibitem{Dakovski2016}
+Boris Vodungbo, Bharati Tudu, Jonathan Perron, Renaud Delaunay, Leonard
+  Mueller, Magnus~H. Berntsen, Guillaume Lambert, Philippe Zeitoun, Christian
+  Gutt, Emmanuelle Jal, Alexander~H. Reid, Patrick~W. Granitzka, Nicolas
+  Jaouen, Georgi~L. Dakovski, Stefan Moeller, Michael~P. Minitti, Ankush Mitra,
+  Sebastian Carron, Bastian Pfau, Clemens {von Korff Schmising}, Michael
+  Schneider, Stefan Eisebitt, and Jan L{\"{u}}ning.
+\newblock {Indirect excitation of ultrafast demagnetization}.
+\newblock {\em Scientific Reports}, 6(1):1--9, 2016.
+
+\bibitem{Illg2013}
+Christian Illg, Michael Haag, and Manfred F{\"{a}}hnle.
+\newblock {Ultrafast demagnetization after laser irradiation in transition
+  metals: Ab initio calculations of the spin-flip electron-phonon scattering
+  with reduced exchange splitting}.
+\newblock {\em Physical Review B - Condensed Matter and Materials Physics},
+  88(21):1--11, 2013.
+
+\bibitem{Erskine1975}
+J.~L. Erskine and E.~A. Stern.
+\newblock {Calculation of the M23 magneto-optical absorption spectrum of
+  ferromagnetic nickel}.
+\newblock {\em Physical Review B}, 12(11):5016--5024, 1975.
+
+\bibitem{VanderLaan1986}
+G.~van~der Laan, B.~T. Thole, G.~Sawatzky, J.B. Goedkoop, J.C. Fuggle, J.-M.
+  Esteva, R.~Karnatak, J.P. Remeika, and H.A. Dabkowska.
+\newblock {Experimental proof of magnetic x-ray dichroism}.
+\newblock {\em Physical Review B}, 34(9):6529--6531, 1986.
+
+\bibitem{Schuetz1987}
+G.~Schuetz, W.~Wagner, W.~Wilhelm, P.~Kienle, R.~Zeller, R.~Zeller, R.~Frahm,
+  and G.~Materlik.
+\newblock {Absorption of Circularly Polarized X Rays in Iron}.
+\newblock {\em Physical Review Letters}, 58(7):737--740, 1987.
+
+\bibitem{McPherson1987}
+A.~McPherson, G.~Gibson, H.~Jara, U.~Johann, T.~S. Luk, I.~McIntyre, K.~Boyer,
+  and C.~K. Rhodes.
+\newblock {Studies of multiphoton production of vacuum-ultraviolet radiation in
+  the rare gases}.
+\newblock {\em Journal of the Optical Society of America B}, 4(4):595 ---- 601,
+  1987.
+
+\bibitem{Manus2002}
+M~Ferray, A~L'Huillier, X~F Li, L~A Lompre, G~Mainfray, and C~Manus.
+\newblock {Multiple-harmonic conversion of 1064 nm radiation in rare gases}.
+\newblock {\em Journal of Physics B: Atomic, Molecular and Optical Physics},
+  21(3):L31--L35, 2002.
+
+\bibitem{J.J.MacklinJ.D.Kmetec1993}
+C.~L.~Gordon {J. J. Macklin, J. D. Kmetec}.
+\newblock {High-Order Harmonic Generation Using Intense Femtosecond Pulses}.
+\newblock {\em Science (New York, N.Y.)}, 70(6):766--769, 1993.
+
+\bibitem{LHuillier1993}
+Anne L'Huillier and Ph~Balcou.
+\newblock {High-order harmonic generation in rare gases with a 1-ps 1053-nm
+  laser}.
+\newblock {\em Physical Review Letters}, 70(6):774--777, 1993.
+
+\bibitem{Krieger2015}
+K.~Krieger, J.~K. Dewhurst, P.~Elliott, S.~Sharma, and E.~K.U. Gross.
+\newblock {Laser-Induced Demagnetization at Ultrashort Time Scales: Predictions
+  of TDDFT}.
+\newblock {\em Journal of Chemical Theory and Computation}, 11(10):4870--4874,
+  2015.
+
+\bibitem{Miller2012}
+David~L. Miller, Mark~W. Keller, Justin~M. Shaw, Ann~N. Chiaramonti, and
+  Robert~R. Keller.
+\newblock {Epitaxial (111) films of Cu, Ni, and Cu x Ni y on $\alpha$−Al 2 O
+  3 (0001) for graphene growth by chemical vapor deposition}.
+\newblock {\em Journal of Applied Physics}, 112(6):064317, 2012.
+
+\bibitem{Greber1997}
+T.~Greber, T.~Kreutz, and J.~Osterwalder.
+\newblock {Photoemission above the Fermi Level: The Top of the Minority d Band
+  in Nickel}.
+\newblock {\em Physical Review Letters}, 79(22):4465--4468, 1997.
+
+\bibitem{Knorren2000}
+R~Knorren, K~H Bennemann, R~Burgermeister, and M~Aeschlimann.
+\newblock {Dynamics of excited electrons in copper and ferromagnetic transition
+  metals: Theory and experiment}.
+\newblock 61(14):9427--9440, 2000.
+
+\bibitem{Chen2017}
+Cong Chen, Zhensheng Tao, Adra Carr, Piotr Matyba, Tibor Szilv{\'{a}}si,
+  Sebastian Emmerich, Martin Piecuch, Mark Keller, Dmitriy Zusin, Steffen Eich,
+  Markus Rollinger, Wenjing You, Stefan Mathias, Uwe Thumm, Manos Mavrikakis,
+  Martin Aeschlimann, Peter~M. Oppeneer, Henry Kapteyn, and Margaret Murnane.
+\newblock {Distinguishing attosecond electron–electron scattering and
+  screening in transition metals}.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  114(27):E5300--E5307, 2017.
+
+\bibitem{Meschter1981}
+Peter~J Meschter, James~W Wright, Charlie~R Brooks, and Thomas~G. Kollie.
+\newblock {Physical Contributions to the Heat Capacity of Nickel}.
+\newblock 42(9):861--871, 1981.
+
+\bibitem{You2018}
+Wenjing You, Phoebe Tengdin, Cong Chen, Xun Shi, Dmitriy Zusin, Yingchao Zhang,
+  Christian Gentry, Adam Blonsky, Mark Keller, Peter M. Oppeneer, Henry
+  Kapteyn, Zhensheng Tao, and Margaret Murnane.
+\newblock {Revealing the Nature of the Ultrafast Magnetic Phase Transition in
+  Ni by Correlating Extreme Ultraviolet Magneto-Optic and Photoemission
+  Spectroscopies}.
+\newblock {\em Physical Review Letters}, 121(7):077204, 2018.
+
+\bibitem{Nicholson2016}
+C.~W. Nicholson, C.~Monney, R.~Carley, B.~Frietsch, J.~Bowlan, M.~Weinelt, and
+  M.~Wolf.
+\newblock {Ultrafast Spin Density Wave Transition in Chromium Governed by
+  Thermalized Electron Gas}.
+\newblock {\em Physical Review Letters}, 117(13):1--5, 2016.
+
+\bibitem{Kornblit1975}
+Avinoam Kornblit and Guenter Ahlers.
+\newblock {Heat capacity of EuO near the Curie temperature}.
+\newblock {\em Physical Review B}, 11(7):2678--2688, 1975.
+
+\bibitem{Lin2008}
+Zhibin Lin, Leonid~V. Zhigilei, and Vittorio Celli.
+\newblock {Electron-phonon coupling and electron heat capacity of metals under
+  conditions of strong electron-phonon nonequilibrium}.
+\newblock {\em Physical Review B - Condensed Matter and Materials Physics},
+  77(7):1--17, 2008.
+
+\bibitem{Turgut2013}
+Emrah Turgut, Chan La-O-Vorakiat, Justin~M. Shaw, Patrik Grychtol, Hans~T.
+  Nembach, Dennis Rudolf, Roman Adam, Martin Aeschlimann, Claus~M. Schneider,
+  Thomas~J. Silva, Margaret~M. Murnane, Henry~C. Kapteyn, and Stefan Mathias.
+\newblock {Controlling the competition between optically induced ultrafast
+  spin-flip scattering and spin transport in magnetic multilayers}.
+\newblock {\em Physical Review Letters}, 110(19):1--6, 2013.
+
+\bibitem{B.Johnson1974}
+P.B. Johnson and R.W. Christy.
+\newblock {Optical constants of transition metals}.
+\newblock {\em Physical Review B}, 9(12):5056--5070, 1974.
+
+\bibitem{Tao2016}
+Zhensheng Tao, Cong Chen, Tibor Szilv{\'{a}}si, Mark Keller, Manos Mavrikakis,
+  Henry Kapteyn, and Margaret Murnane.
+\newblock {Direct time-domain observation of attosecond final-state lifetimes
+  in photoemission from solids}.
+\newblock {\em Science}, 6793(June):aaf6793, 2016.
+
+\bibitem{TraegerG.WenzelL.Hubert1992}
+A.~{Traeger, G., Wenzel, L., Hubert}.
+\newblock {Computer experiments on the information depth and the figure of
+  merit in magnetooptics}.
+\newblock {\em phys. stat. sol. (a)}, 131:201--227, 1992.
+
+\bibitem{Kazantseva2008}
+N.~Kazantseva, U.~Nowak, R.~W. Chantrell, J.~Hohlfeld, and A.~Rebei.
+\newblock {Slow recovery of the magnetisation after a sub-picosecond heat
+  pulse}.
+\newblock {\em Epl}, 81(2), 2008.
+
+\bibitem{Oogane2006}
+Mikihiko Oogane, Takeshi Wakitani, Satoshi Yakata, Resul Yilgin, Yasuo Ando,
+  Akimasa Sakuma, and Terunobu Miyazaki.
+\newblock {Magnetic damping in ferromagnetic thin films}.
+\newblock {\em Japanese Journal of Applied Physics, Part 1: Regular Papers and
+  Short Notes and Review Papers}, 45(5 A):3889--3891, 2006.
 
 \bibitem{Hohenberg1964}
 P~Hohenberg and W.~Kohn.
@@ -388,5 +583,22 @@ K.~Wagner, A.~K{\'{a}}kay, K.~Schultheiss, A.~Henschke, T.~Sebastian, and
   H.~Schultheiss.
 \newblock {Magnetic domain walls as reconfigurable spin-wave nanochannels}.
 \newblock {\em Nature Nanotechnology}, 11(5):432--436, 2016.
+
+\bibitem{Ebert2011}
+H.~Ebert, D.~K{\"{o}}dderitzsch, and J.~Min{\'{a}}r.
+\newblock {Calculating condensed matter properties using the KKR-Green's
+  function method - Recent developments and applications}.
+\newblock {\em Reports on Progress in Physics}, 74(9):096501, 2011.
+
+\bibitem{Soven1967}
+Paul Soven.
+\newblock {Coherent-potential model of substitutional disordered alloys}.
+\newblock {\em Physical Review}, 156(3):809--813, 1967.
+
+\bibitem{Stocks1978}
+G.~M. Stocks, W.~M. Temmerman, and B.~L. Gyorffy.
+\newblock {Complete solution of the Korringa-Kohn-Rostoker coherent-potential-
+  approximation equations: Cu-Ni Alloys}.
+\newblock {\em Physical Review Letters}, 41(5):339--343, 1978.
 
 \end{thebibliography}
