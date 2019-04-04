@@ -1,6 +1,6 @@
 \BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
-\BOOKMARK [1][-]{section.1.1}{Fundamental motivation}{chapter.1}% 2
-\BOOKMARK [1][-]{section.1.2}{Application driven results}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.1}{Fundamental motivation and results}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Application driven motivation and results}{chapter.1}% 3
 \BOOKMARK [0][-]{chapter.2}{Ferromagnetism in Atoms, Molecules, and Solids}{}% 4
 \BOOKMARK [1][-]{section.2.1}{Introduction}{chapter.2}% 5
 \BOOKMARK [1][-]{section.2.2}{Atom Based Description of Magnetism}{chapter.2}% 6
@@ -14,10 +14,10 @@
 \BOOKMARK [2][-]{subsection.2.4.1}{Shortfall of the atomic picture: predicting the magnetic moment of the transition metal solids}{section.2.4}% 14
 \BOOKMARK [2][-]{subsection.2.4.2}{Bragg scattering and Band structure}{section.2.4}% 15
 \BOOKMARK [2][-]{subsection.2.4.3}{The Stoner Model}{section.2.4}% 16
-\BOOKMARK [1][-]{section.2.5}{The next frontier: ultrafast laser-induced ferromagnet dynamics}{chapter.2}% 17
-\BOOKMARK [0][-]{chapter.3}{Theory and Method of Experimental Techniques}{}% 18
+\BOOKMARK [1][-]{section.2.5}{The next frontier: ultrafast laser-induced ferromagnetic dynamics}{chapter.2}% 17
+\BOOKMARK [0][-]{chapter.3}{Theory and Method of Experimental Technique}{}% 18
 \BOOKMARK [1][-]{section.3.1}{Resonant processes in magnetic materials: determining the X-ray absorption intensity}{chapter.3}% 19
-\BOOKMARK [2][-]{subsection.3.1.1}{Transition matrix element for atoms}{section.3.1}% 20
+\BOOKMARK [2][-]{subsection.3.1.1}{Transition matrix element for magnetic atoms}{section.3.1}% 20
 \BOOKMARK [2][-]{subsection.3.1.2}{Transition matrix elements for atoms in solids}{section.3.1}% 21
 \BOOKMARK [2][-]{subsection.3.1.3}{Intensity Sum Rule for Charge}{section.3.1}% 22
 \BOOKMARK [2][-]{subsection.3.1.4}{X-ray Magnetic Circular Dichroism}{section.3.1}% 23
@@ -48,21 +48,26 @@
 \BOOKMARK [2][-]{subsection.5.1.5}{Thermal or non-thermal nature of ultrafast demagnetization?}{section.5.1}% 48
 \BOOKMARK [2][-]{subsection.5.1.6}{Demagnetization and recovery timescales}{section.5.1}% 49
 \BOOKMARK [0][-]{chapter.6}{Direct light-induced spin transfer between elemental sublattices in a spintronic Heusler material via femtosecond laser excitation}{}% 50
-\BOOKMARK [0][-]{chapter.7}{Concluding Remarks and Future Directions}{}% 51
-\BOOKMARK [-1][-]{chapter*.6}{ Bibliography}{}% 52
-\BOOKMARK [0][-]{appendix.A}{Details about the Angle Resolved Photoemission Experiments}{chapter*.6}% 53
-\BOOKMARK [1][-]{section.A.1}{Dynamics of electron temperature}{appendix.A}% 54
-\BOOKMARK [1][-]{section.A.2}{Dynamics of the electron population at 1.6 eV}{appendix.A}% 55
-\BOOKMARK [1][-]{section.A.3}{Dynamics of Exchange Splitting}{appendix.A}% 56
-\BOOKMARK [1][-]{section.A.4}{Temperature dependence of exchange splitting in static ARPES}{appendix.A}% 57
-\BOOKMARK [0][-]{appendix.B}{Details of the Heusler dynamics and corresponding DFT calculations}{chapter*.6}% 58
-\BOOKMARK [1][-]{section.B.1}{Further details of the experimental setup}{appendix.B}% 59
-\BOOKMARK [1][-]{section.B.2}{Sample preparation}{appendix.B}% 60
-\BOOKMARK [1][-]{section.B.3}{Change in reflectivity due to optical excitation in both phases}{appendix.B}% 61
-\BOOKMARK [1][-]{section.B.4}{Element averaged response of the A2 and B2 phases}{appendix.B}% 62
-\BOOKMARK [1][-]{section.B.5}{Dynamics of Co2MnGe on -Al2O3}{appendix.B}% 63
-\BOOKMARK [1][-]{section.B.6}{Method for calculating density of states and magnetic moments from density functional theory}{appendix.B}% 64
-\BOOKMARK [1][-]{section.B.7}{Probabilities for laser-driven transitions in the B2 and A2 phases}{appendix.B}% 65
-\BOOKMARK [1][-]{section.B.8}{Results of the calculations of k-conserving transition probabilities for the L21 phase}{appendix.B}% 66
-\BOOKMARK [1][-]{section.B.9}{Results of atomistic Landau-Lifshitz-Gilbert simulations}{appendix.B}% 67
-\BOOKMARK [2][-]{subsection.B.9.1}{Numerical method}{section.B.9}% 68
+\BOOKMARK [1][-]{section.6.1}{Introduction}{chapter.6}% 51
+\BOOKMARK [1][-]{section.6.2}{Experimental Results}{chapter.6}% 52
+\BOOKMARK [1][-]{section.6.3}{Computational Results}{chapter.6}% 53
+\BOOKMARK [1][-]{section.6.4}{Discussion}{chapter.6}% 54
+\BOOKMARK [0][-]{chapter.7}{Concluding Remarks and Future Directions}{}% 55
+\BOOKMARK [-1][-]{chapter*.6}{ Bibliography}{}% 56
+\BOOKMARK [0][-]{appendix.A}{Details about the Angle Resolved Photoemission Experiments}{chapter*.6}% 57
+\BOOKMARK [1][-]{section.A.1}{Experimental Details of the ARPES Experimentsl}{appendix.A}% 58
+\BOOKMARK [1][-]{section.A.2}{Dynamics of electron temperature}{appendix.A}% 59
+\BOOKMARK [1][-]{section.A.3}{Dynamics of the electron population at 1.6 eV}{appendix.A}% 60
+\BOOKMARK [1][-]{section.A.4}{Dynamics of Exchange Splitting}{appendix.A}% 61
+\BOOKMARK [1][-]{section.A.5}{Temperature dependence of exchange splitting in static ARPES}{appendix.A}% 62
+\BOOKMARK [0][-]{appendix.B}{Details of the Heusler dynamics and corresponding DFT calculations}{chapter*.6}% 63
+\BOOKMARK [1][-]{section.B.1}{Further details of the experimental setup}{appendix.B}% 64
+\BOOKMARK [1][-]{section.B.2}{Sample preparation}{appendix.B}% 65
+\BOOKMARK [1][-]{section.B.3}{Change in reflectivity due to optical excitation in both phases}{appendix.B}% 66
+\BOOKMARK [1][-]{section.B.4}{Element averaged response of the A2 and B2 phases}{appendix.B}% 67
+\BOOKMARK [1][-]{section.B.5}{Dynamics of Co2MnGe on -Al2O3}{appendix.B}% 68
+\BOOKMARK [1][-]{section.B.6}{Method for calculating density of states and magnetic moments from density functional theory}{appendix.B}% 69
+\BOOKMARK [1][-]{section.B.7}{Probabilities for laser-driven transitions in the B2 and A2 phases}{appendix.B}% 70
+\BOOKMARK [1][-]{section.B.8}{Results of the calculations of k-conserving transition probabilities for the L21 phase}{appendix.B}% 71
+\BOOKMARK [1][-]{section.B.9}{Results of atomistic Landau-Lifshitz-Gilbert simulations}{appendix.B}% 72
+\BOOKMARK [2][-]{subsection.B.9.1}{Numerical method}{section.B.9}% 73

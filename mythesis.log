@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.20)  20 MAR 2019 12:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.20)  4 APR 2019 15:23
 entering extended mode
 **./mythesis.tex
 (mythesis.tex
@@ -458,10 +458,10 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no à in font cmr10!
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 12.
+LaTeX Warning: Command \r invalid in math mode on input line 14.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 12.
+LaTeX Warning: Command \r invalid in math mode on input line 14.
 
 [13] [14] [15]
 Missing character: There is no ‚ in font cmr10!
@@ -486,6 +486,12 @@ centered
 
 
 ] [2]
+Overfull \hbox (9.44144pt too wide) in paragraph at lines 12--13
+[]\OT1/cmr/m/n/10.95 This dy-namic pro-cess has been stud-ied us-ing many ex-pe
+r-i-men-tal tech-niques, in-clud-ing magneto-
+ []
+
+[3]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ú in font cmr10!
@@ -495,7 +501,7 @@ Missing character: There is no ù in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
- [3]
+ [4]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
@@ -508,52 +514,62 @@ Missing character: There is no ì in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
-) (chapter2.tex [4] [5]
+) (chapter2.tex [5] [6]
  \th@ChapterStyle\th@DoChapCenterChapter \th@ChapterStyle 2.
 centered
-[6
+[7
 
-] [7]
-Missing character: There is no s in font rsfs10!
- [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19]
-<figs/TransitionMetalValenceShells.png, id=1002, 584.78474pt x 101.78024pt>
+] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20]
+<figs/TransitionMetalValenceShells.png, id=1029, 584.78474pt x 101.78024pt>
 File: figs/TransitionMetalValenceShells.png Graphic file (type png)
 <use figs/TransitionMetalValenceShells.png>
 Package pdftex.def Info: figs/TransitionMetalValenceShells.png  used on input l
-ine 299.
+ine 304.
 (pdftex.def)             Requested size: 426.79134pt x 74.28185pt.
- [20 <./figs/TransitionMetalValenceShells.png>] [21]
-<figs/StonerModel.pdf, id=1020, 327.2067pt x 179.25235pt>
+ [21 <./figs/TransitionMetalValenceShells.png>] [22]
+<figs/StonerModel.pdf, id=1047, 327.2067pt x 179.25235pt>
 File: figs/StonerModel.pdf Graphic file (type pdf)
 <use figs/StonerModel.pdf>
-Package pdftex.def Info: figs/StonerModel.pdf  used on input line 342.
+Package pdftex.def Info: figs/StonerModel.pdf  used on input line 348.
 (pdftex.def)             Requested size: 284.52756pt x 155.8799pt.
- [22 <./figs/StonerModel.pdf>] [23]
-[24]) (chapter3.tex [25] [26]
+ [23 <./figs/StonerModel.pdf>] [24]
+[25]) (chapter3.tex [26] [27]
  \th@ChapterStyle\th@DoChapCenterChapter \th@ChapterStyle 3.
 centered
-[27
+[28
 
-] [28] [29] [30] [31] [32] [33]
-<figs/XMCDMicroscopic.pdf, id=1163, 227.62204pt x 142.26378pt>
+] [29] [30] [31] [32] [33] [34]
+<figs/XMCDMicroscopic.pdf, id=1192, 227.62204pt x 142.26378pt>
 File: figs/XMCDMicroscopic.pdf Graphic file (type pdf)
 <use figs/XMCDMicroscopic.pdf>
-Package pdftex.def Info: figs/XMCDMicroscopic.pdf  used on input line 134.
+Package pdftex.def Info: figs/XMCDMicroscopic.pdf  used on input line 137.
 (pdftex.def)             Requested size: 426.79134pt x 266.77647pt.
- [34] [35 <./figs/XMCDMicroscopic.pdf>]
-[36] [37] [38]
-<figs/FiberSchematic.pdf, id=1268, 455.2441pt x 142.26378pt>
-File: figs/FiberSchematic.pdf Graphic file (type pdf)
-<use figs/FiberSchematic.pdf>
-Package pdftex.def Info: figs/FiberSchematic.pdf  used on input line 209.
-(pdftex.def)             Requested size: 426.79134pt x 133.37846pt.
- [39 <./figs/FiberSchematic.pdf>]) (chapter4.tex [40]
+ [35] [36 <./figs/XMCDMicroscopic.pdf>]
+<figs/TMOKEGeometry.pdf, id=1272, 284.52756pt x 184.94292pt>
+File: figs/TMOKEGeometry.pdf Graphic file (type pdf)
+<use figs/TMOKEGeometry.pdf>
+Package pdftex.def Info: figs/TMOKEGeometry.pdf  used on input line 155.
+(pdftex.def)             Requested size: 142.26378pt x 92.47403pt.
+
+[37 <./figs/TMOKEGeometry.pdf>] [38] [39]
+<figs/HHGSchematic.png, id=1309, 539.01375pt x 449.2785pt>
+File: figs/HHGSchematic.png Graphic file (type png)
+<use figs/HHGSchematic.png>
+Package pdftex.def Info: figs/HHGSchematic.png  used on input line 214.
+(pdftex.def)             Requested size: 284.52756pt x 237.16356pt.
+<figs/TMOKEExpSchematic.pdf, id=1311, 489.32813pt x 286.06876pt>
+File: figs/TMOKEExpSchematic.pdf Graphic file (type pdf)
+<use figs/TMOKEExpSchematic.pdf>
+Package pdftex.def Info: figs/TMOKEExpSchematic.pdf  used on input line 230.
+(pdftex.def)             Requested size: 426.79134pt x 249.5151pt.
+ [40] [41 <./figs/HHGSchematic.png>])
+(chapter4.tex [42] [43 <./figs/TMOKEExpSchematic.pdf>]
  \th@ChapterStyle\th@DoChapCenterChapter \th@ChapterStyle 4.
 centered
-[41
+[44
 
-] [42]
-<aap9744_Figure_fig1_seq1_v1.pdf, id=1337, 868.24374pt x 587.19376pt>
+] [45]
+<aap9744_Figure_fig1_seq1_v1.pdf, id=1370, 868.24374pt x 587.19376pt>
 File: aap9744_Figure_fig1_seq1_v1.pdf Graphic file (type pdf)
 <use aap9744_Figure_fig1_seq1_v1.pdf>
 Package pdftex.def Info: aap9744_Figure_fig1_seq1_v1.pdf  used on input line 21
@@ -569,8 +585,8 @@ LaTeX Warning: Command \r invalid in math mode on input line 26.
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no à in font cmr10!
 Missing character: There is no í in font cmr10!
-[43] [44 <./aap9744_Figure_fig1_seq1_v1.pdf>]
-<aap9744_Figure_fig2_seq2_v1.pdf, id=1359, 1251.67625pt x 799.98875pt>
+[46] [47 <./aap9744_Figure_fig1_seq1_v1.pdf>]
+<aap9744_Figure_fig2_seq2_v1.pdf, id=1391, 1251.67625pt x 799.98875pt>
 File: aap9744_Figure_fig2_seq2_v1.pdf Graphic file (type pdf)
 <use aap9744_Figure_fig2_seq2_v1.pdf>
 Package pdftex.def Info: aap9744_Figure_fig2_seq2_v1.pdf  used on input line 30
@@ -603,7 +619,7 @@ Missing character: There is no í in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no à in font cmr10!
 Missing character: There is no í in font cmr10!
-<aap9744_Figure_fig3_seq3_v1.pdf, id=1370, 1001.7425pt x 577.15625pt>
+<aap9744_Figure_fig3_seq3_v1.pdf, id=1402, 1001.7425pt x 577.15625pt>
 File: aap9744_Figure_fig3_seq3_v1.pdf Graphic file (type pdf)
 <use aap9744_Figure_fig3_seq3_v1.pdf>
 Package pdftex.def Info: aap9744_Figure_fig3_seq3_v1.pdf  used on input line 43
@@ -628,14 +644,14 @@ LaTeX Warning: Command \r invalid in math mode on input line 45.
 
 LaTeX Warning: Command \r invalid in math mode on input line 45.
 
-[45] [46 <./aap9744_Figure_fig2_seq2_v1.pdf>]
-<aap9744_Figure_fig4_seq4_v1.pdf, id=1386, 900.36375pt x 634.37pt>
+[48] [49 <./aap9744_Figure_fig2_seq2_v1.pdf>]
+<aap9744_Figure_fig4_seq4_v1.pdf, id=1418, 900.36375pt x 634.37pt>
 File: aap9744_Figure_fig4_seq4_v1.pdf Graphic file (type pdf)
 <use aap9744_Figure_fig4_seq4_v1.pdf>
 Package pdftex.def Info: aap9744_Figure_fig4_seq4_v1.pdf  used on input line 53
 .
 (pdftex.def)             Requested size: 426.79134pt x 300.70937pt.
- [47] [48 <./aap9744_Figure_fig3_seq3_v1.pdf>] [49 <./aap9744_Figure_fig4_seq4_
+ [50] [51 <./aap9744_Figure_fig3_seq3_v1.pdf>] [52 <./aap9744_Figure_fig4_seq4_
 v1.pdf>]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
@@ -643,20 +659,20 @@ Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
- [50] [51]
+ [53] [54]
 
-LaTeX Warning: Citation `Koopmans2009' on page 52 undefined on input line 72.
+LaTeX Warning: Citation `Koopmans2009' on page 55 undefined on input line 72.
 
-[52]
+[55]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no î in font cmr10!
 Missing character: There is no √ in font cmr10!
 Missing character: There is no © in font cmr10!
- [53]
+ [56]
 Missing character: There is no ¬ in font cmr10!
 Missing character: There is no ∞ in font cmr10!
- [54]
+ [57]
 Missing character: There is no ‚ in font cmr8!
 Missing character: There is no à in font cmr10!
 Missing character: There is no í in font cmr10!
@@ -666,42 +682,38 @@ Missing character: There is no ≤ in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [55]
-Missing character: There is no Œ in font cmr10!
-Missing character: There is no º in font cmr10!
- [56] [57]
-<figs/NiFigS1.png, id=1496, 308.352pt x 225.2415pt>
+ [58] [59]
+<figs/NiFigS1.png, id=1523, 572.73975pt x 418.56375pt>
 File: figs/NiFigS1.png Graphic file (type png)
 <use figs/NiFigS1.png>
-Package pdftex.def Info: figs/NiFigS1.png  used on input line 121.
-(pdftex.def)             Requested size: 426.79134pt x 311.76498pt.
-<figs/NiFigS7.png, id=1499, 353.52075pt x 225.2415pt>
+Package pdftex.def Info: figs/NiFigS1.png  used on input line 119.
+(pdftex.def)             Requested size: 426.79134pt x 311.9102pt.
+<figs/NiFigS7.png, id=1526, 353.52075pt x 225.2415pt>
 File: figs/NiFigS7.png Graphic file (type png)
 <use figs/NiFigS7.png>
-Package pdftex.def Info: figs/NiFigS7.png  used on input line 135.
+Package pdftex.def Info: figs/NiFigS7.png  used on input line 133.
 (pdftex.def)             Requested size: 426.79134pt x 271.93814pt.
- [58] [59 <./figs/NiFigS1.png>] [60 <./figs/NiFigS7.png>]
-<figs/NiFigS8.png, id=1521, 375.804pt x 155.98276pt>
+ [60] [61 <./figs/NiFigS1.png>] [62 <./figs/NiFigS7.png>]
+<figs/NiFigS8.png, id=1549, 375.804pt x 155.98276pt>
 File: figs/NiFigS8.png Graphic file (type png)
 <use figs/NiFigS8.png>
-Package pdftex.def Info: figs/NiFigS8.png  used on input line 147.
+Package pdftex.def Info: figs/NiFigS8.png  used on input line 145.
 (pdftex.def)             Requested size: 426.79134pt x 177.15576pt.
+ [63] [64 <./figs/NiFigS8.png>]
 
-
-Package hyperref Warning: Suppressing link with empty target on input line 161.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 161.
-
-
-[61] [62 <./figs/NiFigS8.png>]
-
-Package hyperref Warning: Suppressing link with empty target on input line 167.
+Package hyperref Warning: Suppressing link with empty target on input line 159.
 
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 167.
+Package hyperref Warning: Suppressing link with empty target on input line 159.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 165.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 165.
 
 
 Missing character: There is no ‚ in font cmr10!
@@ -710,24 +722,24 @@ Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
-[63]
-<figs/NiFigS9.png, id=1549, 338.4645pt x 265.59225pt>
+[65]
+<figs/NiFigS9.png, id=1575, 338.4645pt x 265.59225pt>
 File: figs/NiFigS9.png Graphic file (type png)
 <use figs/NiFigS9.png>
-Package pdftex.def Info: figs/NiFigS9.png  used on input line 173.
+Package pdftex.def Info: figs/NiFigS9.png  used on input line 171.
 (pdftex.def)             Requested size: 426.79134pt x 334.92761pt.
-) (chapter5.tex [64] [65 <./figs/NiFigS9.png>]
+) (chapter5.tex [66] [67 <./figs/NiFigS9.png>]
  \th@ChapterStyle\th@DoChapCenterChapter \th@ChapterStyle 5.
 centered
-[66
+[68
 
 ]
-<figs/PRLFig1.png, id=1577, 375.804pt x 154.77824pt>
+<figs/PRLFig1.png, id=1605, 375.804pt x 154.77824pt>
 File: figs/PRLFig1.png Graphic file (type png)
 <use figs/PRLFig1.png>
 Package pdftex.def Info: figs/PRLFig1.png  used on input line 12.
 (pdftex.def)             Requested size: 426.79134pt x 175.78773pt.
-<figs/PRLFig2.png, id=1578, 167.4255pt x 192.11775pt>
+<figs/PRLFig2.png, id=1606, 167.4255pt x 192.11775pt>
 File: figs/PRLFig2.png Graphic file (type png)
 <use figs/PRLFig2.png>
 Package pdftex.def Info: figs/PRLFig2.png  used on input line 20.
@@ -745,241 +757,243 @@ LaTeX Warning: Command \r invalid in math mode on input line 25.
 Missing character: There is no ‚ in font cmr8!
 Missing character: There is no à in font cmr8!
 Missing character: There is no í in font cmr8!
-[67] [68 <./figs/PRLFig1.png>] [69 <./figs/PRLFig2.png>]
+[69] [70 <./figs/PRLFig1.png>] [71 <./figs/PRLFig2.png>]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no î in font cmr10!
-<figs/PRLFig3.png, id=1605, 375.804pt x 246.9225pt>
+<figs/PRLFig3.png, id=1632, 375.804pt x 246.9225pt>
 File: figs/PRLFig3.png Graphic file (type png)
 <use figs/PRLFig3.png>
 Package pdftex.def Info: figs/PRLFig3.png  used on input line 42.
 (pdftex.def)             Requested size: 426.79134pt x 280.43959pt.
 
 
-LaTeX Warning: Reference `fig: PRLfig5.3' on page 70 undefined on input line 47
+LaTeX Warning: Reference `fig: PRLfig5.3' on page 72 undefined on input line 47
 .
 
-[70] [71 <./figs/PRLFig3.png>]
+[72] [73 <./figs/PRLFig3.png>]
 
-LaTeX Warning: Reference `eqn:5.4' on page 72 undefined on input line 70.
+LaTeX Warning: Reference `eqn:5.4' on page 74 undefined on input line 70.
 
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no î in font cmr10!
-[72]
+[74]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no î in font cmr10!
- [73]
+ [75]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no î in font cmr10!
- [74]
-<figs/PRLFig4.png, id=1665, 470.0835pt x 329.814pt>
+ [76]
+<figs/PRLFig4.png, id=1692, 470.0835pt x 329.814pt>
 File: figs/PRLFig4.png Graphic file (type png)
 <use figs/PRLFig4.png>
 Package pdftex.def Info: figs/PRLFig4.png  used on input line 82.
 (pdftex.def)             Requested size: 426.79134pt x 299.45181pt.
- [75] [76 <./figs/PRLFig4.png>]
+ [77] [78 <./figs/PRLFig4.png>]
 
-LaTeX Warning: Citation `Zusin2018' on page 77 undefined on input line 101.
+LaTeX Warning: Citation `Zusin2018' on page 79 undefined on input line 101.
 
-[77]
-<figs/PRLSI1.png, id=1687, 874.467pt x 312.56775pt>
+[79]
+<figs/PRLSI1.png, id=1714, 874.467pt x 312.56775pt>
 File: figs/PRLSI1.png Graphic file (type png)
 <use figs/PRLSI1.png>
 Package pdftex.def Info: figs/PRLSI1.png  used on input line 106.
 (pdftex.def)             Requested size: 426.79134pt x 152.55382pt.
-<figs/PRLSI2.png, id=1694, 529.37775pt x 438.438pt>
+<figs/PRLSI2.png, id=1721, 529.37775pt x 438.438pt>
 File: figs/PRLSI2.png Graphic file (type png)
 <use figs/PRLSI2.png>
 Package pdftex.def Info: figs/PRLSI2.png  used on input line 118.
 (pdftex.def)             Requested size: 426.79134pt x 353.47371pt.
- [78] [79 <./figs/PRLSI1.png>] [80 <./figs/PRLSI2.png>]
-<figs/PRLSI3.png, id=1709, 367.97475pt x 384.2355pt>
+ [80] [81 <./figs/PRLSI1.png>] [82 <./figs/PRLSI2.png>]
+<figs/PRLSI3.png, id=1736, 367.97475pt x 384.2355pt>
 File: figs/PRLSI3.png Graphic file (type png)
 <use figs/PRLSI3.png>
 Package pdftex.def Info: figs/PRLSI3.png  used on input line 130.
 (pdftex.def)             Requested size: 341.43306pt x 356.52037pt.
- [81] [82 <./figs/PRLSI3.png>]
-<figs/PRLSI4.png, id=1722, 491.436pt x 333.04425pt>
+ [83] [84 <./figs/PRLSI3.png>]
+<figs/PRLSI4.png, id=1749, 491.436pt x 333.04425pt>
 File: figs/PRLSI4.png Graphic file (type png)
 <use figs/PRLSI4.png>
 Package pdftex.def Info: figs/PRLSI4.png  used on input line 143.
 (pdftex.def)             Requested size: 341.43306pt x 231.39647pt.
-<figs/PRLSI5.png, id=1726, 396.2805pt x 272.81924pt>
+<figs/PRLSI5.png, id=1753, 396.2805pt x 272.81924pt>
 File: figs/PRLSI5.png Graphic file (type png)
 <use figs/PRLSI5.png>
 Package pdftex.def Info: figs/PRLSI5.png  used on input line 155.
 (pdftex.def)             Requested size: 341.43306pt x 235.07372pt.
-) (chapter6.tex [83] [84 <./figs/PRLSI4.png> <./figs/PRLSI5.png>]
+) (chapter6.tex [85] [86 <./figs/PRLSI4.png> <./figs/PRLSI5.png>]
  \th@ChapterStyle\th@DoChapCenterChapter \th@ChapterStyle 6.
 centered
-[85
+[87
 
 ]
-<figs/Heus1.png, id=1744, 367.3725pt x 287.8755pt>
+<figs/Heus1.png, id=1772, 367.3725pt x 287.8755pt>
 File: figs/Heus1.png Graphic file (type png)
 <use figs/Heus1.png>
-Package pdftex.def Info: figs/Heus1.png  used on input line 9.
+Package pdftex.def Info: figs/Heus1.png  used on input line 12.
 (pdftex.def)             Requested size: 426.79134pt x 334.45853pt.
-<figs/Heus2.png, id=1748, 352.31625pt x 283.0575pt>
+ [88] [89 <./figs/Heus1.png>]
+<figs/Heus2.png, id=1785, 531.78674pt x 427.5975pt>
 File: figs/Heus2.png Graphic file (type png)
 <use figs/Heus2.png>
-Package pdftex.def Info: figs/Heus2.png  used on input line 21.
-(pdftex.def)             Requested size: 426.79134pt x 342.89365pt.
- [86] [87 <./figs/Heus1.png>] [88 <./figs/Heus2.png>]
+Package pdftex.def Info: figs/Heus2.png  used on input line 25.
+(pdftex.def)             Requested size: 426.79134pt x 343.17459pt.
 
-LaTeX Warning: Reference `Shaw2018' on page 89 undefined on input line 28.
 
-[89]
-<figs/Heus3.png, id=1775, 293.29575pt x 399.894pt>
+LaTeX Warning: Reference `Shaw2018' on page 90 undefined on input line 32.
+
+[90] [91 <./figs/Heus2.png>]
+<figs/Heus3.png, id=1802, 293.29575pt x 399.894pt>
 File: figs/Heus3.png Graphic file (type png)
 <use figs/Heus3.png>
-Package pdftex.def Info: figs/Heus3.png  used on input line 37.
+Package pdftex.def Info: figs/Heus3.png  used on input line 42.
 (pdftex.def)             Requested size: 227.62204pt x 310.36006pt.
- [90] [91 <./figs/Heus3.png>]
-<figs/Heus4.png, id=1790, 558.28575pt x 367.97475pt>
+ [92] [93 <./figs/Heus3.png>]
+<figs/Heus4.png, id=1818, 558.28575pt x 367.97475pt>
 File: figs/Heus4.png Graphic file (type png)
 <use figs/Heus4.png>
-Package pdftex.def Info: figs/Heus4.png  used on input line 47.
+Package pdftex.def Info: figs/Heus4.png  used on input line 52.
 (pdftex.def)             Requested size: 426.79134pt x 281.30324pt.
- [92] [93 <./figs/Heus4.png>] [94])
-(chapter7.tex [95]
+ [94] [95 <./figs/Heus4.png>] [96]) (chapter7.tex [97] [98]
  \th@ChapterStyle\th@DoChapCenterChapter \th@ChapterStyle 7.
-centered
-[96
-
-] [97]) (mythesis.bbl [98]
 centered
 [99
 
-] [100]
-Missing character: There is no ≈ in font cmr10!
-Missing character: There is no ô in font cmr10!
- [101]
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no à in font cmr10!
-Missing character: There is no í in font cmr10!
- [102]
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no à in font cmr10!
-Missing character: There is no í in font cmr10!
+] [100]) (mythesis.bbl [101]
+centered
+[102
+
+]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
- [103]
+ [103] [104]
+Missing character: There is no ≈ in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no à in font cmr10!
+Missing character: There is no í in font cmr10!
+ [105] [106]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no à in font cmr10!
+Missing character: There is no í in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no â in font cmr10!
- [104]
-Underfull \hbox (badness 10000) in paragraph at lines 510--513
+ [107]
+Underfull \hbox (badness 10000) in paragraph at lines 515--518
 []\OT1/cmr/m/n/10.95 O. Er-icks-son, A. Berman, L. Bergqvist, and J. Hellsvik.
  []
 
 
-Underfull \hbox (badness 7203) in paragraph at lines 544--548
+Underfull \hbox (badness 7203) in paragraph at lines 556--560
 []\OT1/cmr/m/n/10.95 Joern N. Kupfer-schmidt and Piet W. Brouwer.  An-dreev re-
 flec-tion at half-
  []
 
 
-Underfull \hbox (badness 1242) in paragraph at lines 544--548
+Underfull \hbox (badness 1242) in paragraph at lines 556--560
 \OT1/cmr/m/n/10.95 metal/superconductor in-ter-faces with nonuni-form mag-ne-ti
 -za-tion.  |   []   |   []   |   [],
  []
 
-[105]) (appendixA.tex [106]
+[108]) (appendixA.tex [109]
  \th@ChapterStyle\th@DoChapCenterAppendix \th@ChapterStyle A.
 centered
-
-LaTeX Warning: Command \r invalid in math mode on input line 4.
-
-
-LaTeX Warning: Command \r invalid in math mode on input line 4.
-
-[107
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no º in font cmr10!
+[110
 
 ]
-<figs/NiFigS2.png, id=1903, 256.5585pt x 215.00325pt>
+
+LaTeX Warning: Command \r invalid in math mode on input line 9.
+
+
+LaTeX Warning: Command \r invalid in math mode on input line 9.
+
+[111]
+<figs/NiFigS2.png, id=1948, 256.5585pt x 215.00325pt>
 File: figs/NiFigS2.png Graphic file (type png)
 <use figs/NiFigS2.png>
-Package pdftex.def Info: figs/NiFigS2.png  used on input line 17.
+Package pdftex.def Info: figs/NiFigS2.png  used on input line 22.
 (pdftex.def)             Requested size: 426.79134pt x 357.69922pt.
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
- [108] [109 <./figs/NiFigS2.png>]
+ [112] [113 <./figs/NiFigS2.png>]
 Missing character: There is no Œ in font cmr10!
 Missing character: There is no î in font cmr10!
- [110]
-<figs/NiFigS3.png, id=1926, 338.4645pt x 136.1085pt>
+ [114]
+<figs/NiFigS3.png, id=1970, 338.4645pt x 136.1085pt>
 File: figs/NiFigS3.png Graphic file (type png)
 <use figs/NiFigS3.png>
-Package pdftex.def Info: figs/NiFigS3.png  used on input line 32.
+Package pdftex.def Info: figs/NiFigS3.png  used on input line 37.
 (pdftex.def)             Requested size: 426.79134pt x 171.6409pt.
-
-
-LaTeX Warning: Command \r invalid in math mode on input line 40.
 
 
 LaTeX Warning: Command \r invalid in math mode on input line 45.
 
 
-Overfull \hbox (1.35411pt too wide) in paragraph at lines 44--46
+LaTeX Warning: Command \r invalid in math mode on input line 50.
+
+
+Overfull \hbox (1.35411pt too wide) in paragraph at lines 49--51
 \OT1/cmr/m/n/10.95 where E is the pho-to-elec-tron en-ergy, m rep-re-sents the 
 in-dex of the Voigt func-tions, $\OML/cmm/m/it/10.95 V\OT1/cmr/m/n/10.95 (\OML/
 cmm/m/it/10.95 E\OT1/cmr/m/n/10.95 ; \OML/cmm/m/it/10.95 E[]; []; []\OT1/cmr/
 m/n/10.95 )$
  []
 
-[111 <./figs/NiFigS3.png>]
-<figs/NiFigS4.png, id=1936, 375.804pt x 202.356pt>
+[115 <./figs/NiFigS3.png>]
+<figs/NiFigS4.png, id=1980, 375.804pt x 202.356pt>
 File: figs/NiFigS4.png Graphic file (type png)
 <use figs/NiFigS4.png>
-Package pdftex.def Info: figs/NiFigS4.png  used on input line 49.
+Package pdftex.def Info: figs/NiFigS4.png  used on input line 54.
 (pdftex.def)             Requested size: 426.79134pt x 229.82367pt.
- [112] [113 <./figs/NiFigS4.png>]
-<figs/NiFigS5.png, id=1948, 205.36725pt x 277.63725pt>
+ [116] [117 <./figs/NiFigS4.png>]
+<figs/NiFigS5.png, id=1993, 205.36725pt x 277.63725pt>
 File: figs/NiFigS5.png Graphic file (type png)
 <use figs/NiFigS5.png>
-Package pdftex.def Info: figs/NiFigS5.png  used on input line 61.
+Package pdftex.def Info: figs/NiFigS5.png  used on input line 66.
 (pdftex.def)             Requested size: 199.16928pt x 269.26544pt.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 68.
+LaTeX Warning: Command \r invalid in math mode on input line 73.
 
-<figs/NiFigS6.png, id=1953, 375.804pt x 148.75575pt>
+<figs/NiFigS6.png, id=1998, 375.804pt x 148.75575pt>
 File: figs/NiFigS6.png Graphic file (type png)
 <use figs/NiFigS6.png>
-Package pdftex.def Info: figs/NiFigS6.png  used on input line 72.
+Package pdftex.def Info: figs/NiFigS6.png  used on input line 77.
 (pdftex.def)             Requested size: 426.79134pt x 168.94774pt.
-) (appendixB.tex [114] [115 <./figs/NiFigS5.png> <./figs/NiFigS6.png>]
+) (appendixB.tex [118] [119 <./figs/NiFigS5.png> <./figs/NiFigS6.png>]
  \th@ChapterStyle\th@DoChapCenterAppendix \th@ChapterStyle B.
 centered
-<figs/Heuslerstatic.png, id=1963, 375.804pt x 126.4725pt>
+<figs/Heuslerstatic.png, id=2008, 752.8125pt x 252.945pt>
 File: figs/Heuslerstatic.png Graphic file (type png)
 <use figs/Heuslerstatic.png>
 Package pdftex.def Info: figs/Heuslerstatic.png  used on input line 9.
-(pdftex.def)             Requested size: 426.79134pt x 143.63979pt.
+(pdftex.def)             Requested size: 426.79134pt x 143.40436pt.
 Missing character: There is no ¬ in font cmr10!
 Missing character: There is no ∞ in font cmr10!
 Missing character: There is no ¬ in font cmr10!
 Missing character: There is no ∞ in font cmr10!
-[116
+[120
 
  <./figs/Heuslerstatic.png>]
 
-LaTeX Warning: Reference `fig: ReflectivityHeusle' on page 117 undefined on inp
+LaTeX Warning: Reference `fig: ReflectivityHeusle' on page 121 undefined on inp
 ut line 20.
 
-<figs/ReflectivityHeusler.png, id=1969, 279.444pt x 178.266pt>
+<figs/ReflectivityHeusler.png, id=2015, 279.444pt x 178.266pt>
 File: figs/ReflectivityHeusler.png Graphic file (type png)
 <use figs/ReflectivityHeusler.png>
 Package pdftex.def Info: figs/ReflectivityHeusler.png  used on input line 24.
 (pdftex.def)             Requested size: 426.79134pt x 272.26732pt.
-[117] [118 <./figs/ReflectivityHeusler.png>]
-<figs/ElementAveMOKE.png, id=1978, 390.86024pt x 295.70474pt>
+[121] [122 <./figs/ReflectivityHeusler.png>]
+<figs/ElementAveMOKE.png, id=2026, 390.86024pt x 295.70474pt>
 File: figs/ElementAveMOKE.png Graphic file (type png)
 <use figs/ElementAveMOKE.png>
 Package pdftex.def Info: figs/ElementAveMOKE.png  used on input line 35.
@@ -1034,74 +1048,74 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 41.
 
 
-LaTeX Warning: Reference `SapphireHeusler' on page 119 undefined on input line 
+LaTeX Warning: Reference `SapphireHeusler' on page 123 undefined on input line 
 43.
 
-<figs/SapphireHeusler.png, id=1979, 224.037pt x 158.994pt>
+<figs/SapphireHeusler.png, id=2027, 224.037pt x 158.994pt>
 File: figs/SapphireHeusler.png Graphic file (type png)
 <use figs/SapphireHeusler.png>
 Package pdftex.def Info: figs/SapphireHeusler.png  used on input line 47.
 (pdftex.def)             Requested size: 341.43306pt x 242.31143pt.
-[119] [120 <./figs/ElementAveMOKE.png> <./figs/SapphireHeusler.png>]
+[123] [124 <./figs/ElementAveMOKE.png> <./figs/SapphireHeusler.png>]
 Missing character: There is no œ in font cmr10!
 Missing character: There is no É in font cmr10!
- [121]
-<figs/ElementOrbitalDOS.png, id=2006, 375.804pt x 150.5625pt>
+ [125]
+<figs/ElementOrbitalDOS.png, id=2054, 375.804pt x 150.5625pt>
 File: figs/ElementOrbitalDOS.png Graphic file (type png)
 <use figs/ElementOrbitalDOS.png>
 Package pdftex.def Info: figs/ElementOrbitalDOS.png  used on input line 88.
 (pdftex.def)             Requested size: 426.79134pt x 170.99974pt.
 
 
-LaTeX Warning: Reference `TransProbB2' on page 122 undefined on input line 94.
+LaTeX Warning: Reference `TransProbB2' on page 126 undefined on input line 94.
 
-<figs/TransitionProbB2.png, id=2008, 415.5525pt x 501.072pt>
+<figs/TransitionProbB2.png, id=2056, 415.5525pt x 501.072pt>
 File: figs/TransitionProbB2.png Graphic file (type png)
 <use figs/TransitionProbB2.png>
 Package pdftex.def Info: figs/TransitionProbB2.png  used on input line 97.
 (pdftex.def)             Requested size: 426.79134pt x 514.64195pt.
-[122 <./figs/ElementOrbitalDOS.png>]
-<figs/TransitionProbA2.png, id=2019, 525.76425pt x 362.5545pt>
+[126 <./figs/ElementOrbitalDOS.png>]
+<figs/TransitionProbA2.png, id=2066, 525.76425pt x 362.5545pt>
 File: figs/TransitionProbA2.png Graphic file (type png)
 <use figs/TransitionProbA2.png>
 Package pdftex.def Info: figs/TransitionProbA2.png  used on input line 107.
 (pdftex.def)             Requested size: 426.79134pt x 294.30927pt.
-<figs/TransitionProbTotalA2.png, id=2021, 383.63326pt x 269.20575pt>
+<figs/TransitionProbTotalA2.png, id=2068, 383.63326pt x 269.20575pt>
 File: figs/TransitionProbTotalA2.png Graphic file (type png)
 <use figs/TransitionProbTotalA2.png>
 Package pdftex.def Info: figs/TransitionProbTotalA2.png  used on input line 115
 .
 (pdftex.def)             Requested size: 341.43306pt x 239.59645pt.
-<figs/kConsComp.png, id=2025, 498.06075pt x 240.29774pt>
+<figs/kConsComp.png, id=2072, 498.06075pt x 240.29774pt>
 File: figs/kConsComp.png Graphic file (type png)
 <use figs/kConsComp.png>
 Package pdftex.def Info: figs/kConsComp.png  used on input line 126.
 (pdftex.def)             Requested size: 341.43306pt x 164.73862pt.
- [123] [124 <./figs/TransitionProbB2.png>]
-[125 <./figs/TransitionProbA2.png> <./figs/TransitionProbTotalA2.png>] [126 <./
-figs/kConsComp.png>] [127]
-<figs/LLGResults.png, id=2050, 823.878pt x 276.43275pt>
+ [127] [128 <./figs/TransitionProbB2.png>]
+[129 <./figs/TransitionProbA2.png> <./figs/TransitionProbTotalA2.png>] [130 <./
+figs/kConsComp.png>] [131]
+<figs/LLGResults.png, id=2100, 823.878pt x 276.43275pt>
 File: figs/LLGResults.png Graphic file (type png)
 <use figs/LLGResults.png>
 Package pdftex.def Info: figs/LLGResults.png  used on input line 154.
 (pdftex.def)             Requested size: 426.79134pt x 143.19751pt.
 
 
-LaTeX Warning: Reference `fig: LLGTable1' on page 128 undefined on input line 1
+LaTeX Warning: Reference `fig: LLGTable1' on page 132 undefined on input line 1
 64.
 
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
-) [128 <./figs/LLGResults.png>]
+) [132 <./figs/LLGResults.png>]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 82.
- [129]
+ [133]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 82.
  (mythesis.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 82.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 82.
 Package rerunfilecheck Info: File `mythesis.out' has not changed.
-(rerunfilecheck)             Checksum: 19D7833F145D837E6796FB4DCCD7A0AD;6273.
+(rerunfilecheck)             Checksum: F8B98C5FC5BF1343800319627E1B4DE0;6660.
 
 
 LaTeX Warning: There were undefined references.
@@ -1112,13 +1126,13 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 82.
  ) 
 Here is how much of TeX's memory you used:
- 7404 strings out of 493305
- 109641 string characters out of 3129802
- 248800 words of memory out of 3000000
- 10334 multiletter control sequences out of 15000+200000
+ 7449 strings out of 493305
+ 110371 string characters out of 3129802
+ 248991 words of memory out of 3000000
+ 10358 multiletter control sequences out of 15000+200000
  17505 words of font info for 65 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,15n,41p,2498b,526s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,19n,41p,2643b,526s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/phoeb/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb><C:/Users/phoeb/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmbx12.pfb><C:/Users/phoeb/AppData/Local/Programs/MiKTeX 2.9/f
@@ -1139,9 +1153,9 @@ ts/cm/cmti10.pfb><C:/Users/phoeb/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
 public/amsfonts/symbols/msam10.pfb><C:/Users/phoeb/AppData/Local/Programs/MiKTe
 X 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Users/phoeb/AppData/Lo
 cal/Programs/MiKTeX 2.9/fonts/type1/public/rsfs/rsfs10.pfb>
-Output written on mythesis.pdf (152 pages, 7279557 bytes).
+Output written on mythesis.pdf (156 pages, 8021456 bytes).
 PDF statistics:
- 2216 PDF objects out of 2487 (max. 8388607)
- 452 named destinations out of 1000 (max. 500000)
- 745 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2271 PDF objects out of 2487 (max. 8388607)
+ 471 named destinations out of 1000 (max. 500000)
+ 795 words of extra memory for PDF output out of 10000 (max. 10000000)
 

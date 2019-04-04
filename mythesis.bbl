@@ -86,26 +86,22 @@ Emrah Turgut, Dmitriy Zusin, Dominik Legut, Karel Carva, Ronny Knut, Justin~M.
 \newblock {\em Physical Review B - Condensed Matter and Materials Physics},
   94(22):1--6, 2016.
 
-\bibitem{Lambert2014}
-C.~H. Lambert, S.~Mangin, B.~S.D.Ch~S. Varaprasad, Y.~K. Takahashi, M.~Hehn,
-  M.~Cinchetti, G.~Malinowski, K.~Hono, Y.~Fainman, M.~Aeschlimann, and E.~E.
-  Fullerton.
-\newblock {All-optical control of ferromagnetic thin films and nanostructures}.
-\newblock {\em Science}, 345(6202):1337--1340, 2014.
-
-\bibitem{Kimmel2005}
-A.~V. Kimel, A.~Kirilyuk, P.~A. Usachev, R.~V. Pisarev, A.~M. Balbashov, and
-  Th. Rasing.
-\newblock {Ultrafast non-thermal control of magnetization by instantaneous
-  photomagnetic pulses}.
-\newblock {\em Nature}, 435(7042):655--657, 2005.
-
 \bibitem{Boeglin2010}
 C.~Boeglin, E.~Beaurepaire, V.~Halt{\'{e}}, V.~L{\'{o}}pez-Flores, C.~Stamm,
   N.~Pontius, H.~A. D{\"{u}}rr, and J.-Y. Bigot.
 \newblock {Distinguishing the ultrafast dynamics of spin and orbital moments in
   solids}.
 \newblock {\em Nature}, 465(7297):458--461, 2010.
+
+\bibitem{Chen2017}
+Cong Chen, Zhensheng Tao, Adra Carr, Piotr Matyba, Tibor Szilv{\'{a}}si,
+  Sebastian Emmerich, Martin Piecuch, Mark Keller, Dmitriy Zusin, Steffen Eich,
+  Markus Rollinger, Wenjing You, Stefan Mathias, Uwe Thumm, Manos Mavrikakis,
+  Martin Aeschlimann, Peter~M. Oppeneer, Henry Kapteyn, and Margaret Murnane.
+\newblock {Distinguishing attosecond electron–electron scattering and
+  screening in transition metals}.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  114(27):E5300--E5307, 2017.
 
 \bibitem{Koopmans2010}
 B~Koopmans, G~Malinowski, F~{Dalla Longa}, D~Steiauf, M~F{\"{a}}hnle, T~Roth,
@@ -174,6 +170,14 @@ A~B Schmidt, M~Pickel, M~Donath, P~Buczek, A~Ernst, V~P Zhukov, P~M Echenique,
 \newblock {Ultrafast Magnon Generation in an Fe Film on Cu ( 100 )}.
 \newblock 197401(November):0--3, 2010.
 
+\bibitem{Tengdin2018}
+Phoebe Tengdin, Wenjing You, Cong Chen, Xun Shi, Dmitriy Zusin, Yingchao Zhang,
+  Christian Gentry, Adam Blonsky, Mark Keller, Peter~M Oppeneer, Henry~C
+  Kapteyn, Zhensheng Tao, and Margaret~M Murnane.
+\newblock {Critical behavior within 20 fs drives the out-of-equilibrium
+  laser-induced magnetic phase transition in nickel}.
+\newblock {\em Science Advances}, 4(eaap9744):eaap9744, 2018.
+
 \bibitem{He2017}
 Shikun He, Yifan Liu, Yuhong Zheng, Qing Qin, Zhenchao Wen, Qingyun Wu,
   Yi~Yang, Yupu Wang, YuanPing Feng, Kie~Leong Teo, and Christos Panagopoulos.
@@ -229,6 +233,13 @@ K~C Kuiper, R~R J C~De Wit, B~Koopmans, and A~J Schellekens.
   excitation}.
 \newblock {\em Nature Communications}, 5:1--7, 2014.
 
+\bibitem{Lambert2014}
+C.~H. Lambert, S.~Mangin, B.~S.D.Ch~S. Varaprasad, Y.~K. Takahashi, M.~Hehn,
+  M.~Cinchetti, G.~Malinowski, K.~Hono, Y.~Fainman, M.~Aeschlimann, and E.~E.
+  Fullerton.
+\newblock {All-optical control of ferromagnetic thin films and nanostructures}.
+\newblock {\em Science}, 345(6202):1337--1340, 2014.
+
 \bibitem{Mangin2014}
 S.~Mangin, M.~Gottwald, C.~H. Lambert, D.~Steil, V.~Uhl{\'{i}}ř, L.~Pang,
   M.~Hehn, S.~Alebrand, M.~Cinchetti, G.~Malinowski, Y.~Fainman,
@@ -250,21 +261,6 @@ John Dewhurst, Peter Elliott, Sam Shallcross, Eberhard K.~U. Gross, and
   Sangeeta Sharma.
 \newblock {Laser induced inter-site spin transfer}.
 \newblock {\em Nano Letters}, 18:1842−1848, 2018.
-
-\bibitem{Gort2018}
-R.~Gort, K.~B{\"{u}}hlmann, S.~D{\"{a}}ster, G.~Salvatella, N.~Hartmann,
-  Y.~Zemp, S.~Holenstein, C.~Stieger, A.~Fognini, T.~U. Michlmayr,
-  T.~B{\"{a}}hler, A.~Vaterlaus, and Y.~Acremann.
-\newblock {Early Stages of Ultrafast Spin Dynamics in a 3d Ferromagnet}.
-\newblock {\em Physical Review Letters}, 121(8):087206, 2018.
-
-\bibitem{Tengdin2018}
-Phoebe Tengdin, Wenjing You, Cong Chen, Xun Shi, Dmitriy Zusin, Yingchao Zhang,
-  Christian Gentry, Adam Blonsky, Mark Keller, Peter~M Oppeneer, Henry~C
-  Kapteyn, Zhensheng Tao, and Margaret~M Murnane.
-\newblock {Critical behavior within 20 fs drives the out-of-equilibrium
-  laser-induced magnetic phase transition in nickel}.
-\newblock {\em Science Advances}, 4(eaap9744):eaap9744, 2018.
 
 \bibitem{Stohr2006}
 J.~Stohr and H.~C. Siegmann.
@@ -301,6 +297,12 @@ N.~F. Mott.
 \newblock {A discussion of the transition metals on the basis of quantum
   mechanics}.
 \newblock {\em Proceedings of the Physical Society}, 47(4):571--588, 1935.
+
+\bibitem{Wu1994}
+R.~Wu and A.J. Freeman.
+\newblock {Limitation of the Magnetic-Circular-Dichroism Spin Sum Rule for
+  Transition Metals and importance if the mangetic dipole term}.
+\newblock {\em Physical Review Letters}, 73(14):1994--1997, 1994.
 
 \bibitem{Zhang2009}
 G.~P. Zhang, W.~H{\"{u}}bner, Georgios Lefkidis, Yihua Bai, and Thomas~F.
@@ -387,6 +389,19 @@ Anne L'Huillier and Ph~Balcou.
   laser}.
 \newblock {\em Physical Review Letters}, 70(6):774--777, 1993.
 
+\bibitem{B.Corkum1993}
+Paul {B. Corkum}.
+\newblock {Plasma perspective on strong field multiphoton ionization}.
+\newblock {\em Physical Review Letters}, 71(13):1994--1997, 1993.
+
+\bibitem{Murnane2010}
+W.~Li, A.~A. Jaron-Becker, C.~W. Hogle, V.~Sharma, X.~Zhou, A.~Becker, H.~C.
+  Kapteyn, and M.~M. Murnane.
+\newblock {Visualizing electron rearrangement in space and time during the
+  transition from a molecule to atoms}.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  107(47):20219--20222, 2010.
+
 \bibitem{Krieger2015}
 K.~Krieger, J.~K. Dewhurst, P.~Elliott, S.~Sharma, and E.~K.U. Gross.
 \newblock {Laser-Induced Demagnetization at Ultrashort Time Scales: Predictions
@@ -412,16 +427,6 @@ R~Knorren, K~H Bennemann, R~Burgermeister, and M~Aeschlimann.
 \newblock {Dynamics of excited electrons in copper and ferromagnetic transition
   metals: Theory and experiment}.
 \newblock 61(14):9427--9440, 2000.
-
-\bibitem{Chen2017}
-Cong Chen, Zhensheng Tao, Adra Carr, Piotr Matyba, Tibor Szilv{\'{a}}si,
-  Sebastian Emmerich, Martin Piecuch, Mark Keller, Dmitriy Zusin, Steffen Eich,
-  Markus Rollinger, Wenjing You, Stefan Mathias, Uwe Thumm, Manos Mavrikakis,
-  Martin Aeschlimann, Peter~M. Oppeneer, Henry Kapteyn, and Margaret Murnane.
-\newblock {Distinguishing attosecond electron–electron scattering and
-  screening in transition metals}.
-\newblock {\em Proceedings of the National Academy of Sciences},
-  114(27):E5300--E5307, 2017.
 
 \bibitem{Meschter1981}
 Peter~J Meschter, James~W Wright, Charlie~R Brooks, and Thomas~G. Kollie.
@@ -527,6 +532,13 @@ M.~Hofherr, S.~Moretti, J.~Shim, S.~H{\"{a}}user, N.~Y. Safonova, M.~Stiehl,
   dynamics}.
 \newblock {\em Physical Review B}, 98(17):174419, 2018.
 
+\bibitem{Gort2018}
+R.~Gort, K.~B{\"{u}}hlmann, S.~D{\"{a}}ster, G.~Salvatella, N.~Hartmann,
+  Y.~Zemp, S.~Holenstein, C.~Stieger, A.~Fognini, T.~U. Michlmayr,
+  T.~B{\"{a}}hler, A.~Vaterlaus, and Y.~Acremann.
+\newblock {Early Stages of Ultrafast Spin Dynamics in a 3d Ferromagnet}.
+\newblock {\em Physical Review Letters}, 121(8):087206, 2018.
+
 \bibitem{Dong2005}
 X.~Y. Dong, C.~Adelmann, J.~Q. Xie, C.~J. Palmstr{\o}m, X.~Lou, J.~Strand,
   P.~A. Crowell, J.~P. Barnes, and A.~K. Petford-Long.
@@ -584,6 +596,19 @@ K.~Wagner, A.~K{\'{a}}kay, K.~Schultheiss, A.~Henschke, T.~Sebastian, and
 \newblock {Magnetic domain walls as reconfigurable spin-wave nanochannels}.
 \newblock {\em Nature Nanotechnology}, 11(5):432--436, 2016.
 
+\bibitem{Cheng2016}
+Yu-chen Cheng, Chih-hsuan Lu, and Yuan-yao Lin.
+\newblock {Supercontinuum generation in a multi-plate medium}.
+\newblock 24(7):462--465, 2016.
+
+\bibitem{Shaw2018}
+Justin~M Shaw, Erna~K Delczeg-czirjak, Eric R~J Edwards, Yaroslav Kvashnin,
+  Danny Thonig, Martin A~W Schoen, Matt Pufall, Michael~L Schneider, Thomas~J
+  Silva, Olof Karis, Katherine~P Rice, Olle Eriksson, and Hans~T Nembach.
+\newblock {Magnetic damping in sputter-deposited Co 2 MnGe Heusler compounds
+  with A2 , B2 , and L21 orders : Experiment and theory}.
+\newblock {\em Phys Rev B}, 97:094420, 2018.
+
 \bibitem{Ebert2011}
 H.~Ebert, D.~K{\"{o}}dderitzsch, and J.~Min{\'{a}}r.
 \newblock {Calculating condensed matter properties using the KKR-Green's
@@ -600,5 +625,31 @@ G.~M. Stocks, W.~M. Temmerman, and B.~L. Gyorffy.
 \newblock {Complete solution of the Korringa-Kohn-Rostoker coherent-potential-
   approximation equations: Cu-Ni Alloys}.
 \newblock {\em Physical Review Letters}, 41(5):339--343, 1978.
+
+\bibitem{Antropov1996}
+V.~Antropov, M.~Katsnelson, B.~Harmon, and M.~van Schilfgaarde.
+\newblock {Spin dynamics in magnets: Equation of motion and finite temperature
+  effects}.
+\newblock {\em Physical Review B - Condensed Matter and Materials Physics},
+  54(2):1019--1035, 1996.
+
+\bibitem{Skubic2008}
+B.~Skubic, J.~Hellsvik, L.~Nordstr{\"{o}}m, and O.~Eriksson.
+\newblock {A method for atomistic spin dynamics simulations: Implementation and
+  examples}.
+\newblock {\em Journal of Physics Condensed Matter}, 20(31):315203, 2008.
+
+\bibitem{Mentink2012}
+J.~H. Mentink, J.~Hellsvik, V.~Afanasiev, B.~A. Ivanov, A.~Kirilyuk, A.V.
+  Kimel, O.~Eriksson, M.~I. Katsnelson, and Th. Rasing.
+\newblock {Ultrafast Spin Dynamics in Multisublattice Magnets}.
+\newblock {\em Physical Review Letters}, 108(057202):242, 2012.
+
+\bibitem{Malinowski2008}
+G.~Malinowski, F.~{Dalla Longa}, J.~H.H. Rietjens, P.~V. Paluskar, R.~Huijink,
+  H.~J.M. Swagten, and B.~Koopmans.
+\newblock {Control of speed and efficiency of ultrafast demagnetization by
+  direct transfer of spin angular momentum}.
+\newblock {\em Nature Physics}, 4(11):855--858, 2008.
 
 \end{thebibliography}
